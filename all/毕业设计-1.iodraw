@@ -592,9 +592,9 @@
           <mxGeometry x="-640" y="340" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-77" value="电费" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="380" width="80" height="30" as="geometry" />
+          <mxGeometry x="-415" y="370" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-78" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求ip&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-78" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;服务费&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-425" y="420" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-79" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-62" target="y5Qs9hLnwx7ZL5iUXA9D-80">
