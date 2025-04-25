@@ -868,7 +868,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-165" value="充电桩编号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="105" width="75" height="20" as="geometry" />
+          <mxGeometry x="-90" y="120" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-166" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-147" target="y5Qs9hLnwx7ZL5iUXA9D-167">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -892,7 +892,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-170" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;充电站id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="160" width="75" height="20" as="geometry" />
+          <mxGeometry x="-150" y="150" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
