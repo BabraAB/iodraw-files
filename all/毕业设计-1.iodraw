@@ -384,8 +384,8 @@
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-24" value="描述" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-350" y="-120" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-25" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Attribute&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="-100" width="90" height="30" as="geometry" />
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-25" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求路径&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-150" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
