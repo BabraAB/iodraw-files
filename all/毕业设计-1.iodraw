@@ -1009,7 +1009,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-220" value="日志" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-1200" width="80" height="30" as="geometry" />
+          <mxGeometry x="630" y="-1220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-221" target="y5Qs9hLnwx7ZL5iUXA9D-226">
           <mxGeometry relative="1" as="geometry">
