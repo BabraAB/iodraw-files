@@ -979,7 +979,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-206" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="347.5" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="530" y="311.25" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-207" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-206" target="y5Qs9hLnwx7ZL5iUXA9D-147">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
