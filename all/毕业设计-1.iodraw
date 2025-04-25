@@ -729,8 +729,8 @@
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-108" target="y5Qs9hLnwx7ZL5iUXA9D-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-116" value="充电站" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="385" width="80" height="30" as="geometry" />
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-116" value="充电站" style="whiteSpace=wrap;html=1;align=center;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="310" y="377.5" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-117" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-116" target="y5Qs9hLnwx7ZL5iUXA9D-131">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
