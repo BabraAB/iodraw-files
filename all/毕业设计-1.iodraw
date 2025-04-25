@@ -592,7 +592,7 @@
           <mxGeometry x="-650" y="330" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-77" value="电费" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="360" width="70" height="20" as="geometry" />
+          <mxGeometry x="-430" y="360" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-78" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;服务费&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-400" y="390" width="80" height="20" as="geometry" />
@@ -637,7 +637,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-87" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;支付时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-325" y="460" width="95" height="30" as="geometry" />
+          <mxGeometry x="-330" y="460" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-88" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="y5Qs9hLnwx7ZL5iUXA9D-89" source="y5Qs9hLnwx7ZL5iUXA9D-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -646,10 +646,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-89" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;支付方式&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-302.5" y="500" width="95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.383;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-77" target="y5Qs9hLnwx7ZL5iUXA9D-77">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-320" y="500" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
