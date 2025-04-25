@@ -300,9 +300,6 @@
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-1" value="充电站" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="20" y="180" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-2" value="订单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-475" y="230" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-3" value="日志" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-390" y="-90" width="80" height="30" as="geometry" />
         </mxCell>
@@ -525,7 +522,7 @@
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-51" target="y5Qs9hLnwx7ZL5iUXA9D-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-62" value="日志" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-62" value="订单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-620" y="540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-62" target="y5Qs9hLnwx7ZL5iUXA9D-77">
