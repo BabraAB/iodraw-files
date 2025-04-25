@@ -1039,8 +1039,13 @@
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-225" value="充电桩" style="whiteSpace=wrap;html=1;align=center;direction=south;" vertex="1" parent="1">
           <mxGeometry x="345" y="-1030" width="90" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-226">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="-1102.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-226" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-670" width="80" height="30" as="geometry" />
+          <mxGeometry x="20" y="-1022.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
