@@ -1051,8 +1051,13 @@
             <mxPoint x="515" y="-620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-271" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y5Qs9hLnwx7ZL5iUXA9D-247">
+          <mxGeometry x="0.9264" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-223" value="用户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="475" y="-730" width="80" height="30" as="geometry" />
+          <mxGeometry x="475" y="-722" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-224" target="y5Qs9hLnwx7ZL5iUXA9D-225">
           <mxGeometry relative="1" as="geometry">
