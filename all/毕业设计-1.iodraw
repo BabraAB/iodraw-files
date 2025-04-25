@@ -978,7 +978,7 @@
             <mxPoint x="530" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-206" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-206" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="295" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-207" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-206" target="y5Qs9hLnwx7ZL5iUXA9D-147">
@@ -1139,7 +1139,7 @@
           <mxGeometry x="560" y="-912" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-280" value="维修" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="-912" width="50" height="30" as="geometry" />
+          <mxGeometry x="230" y="-907.5" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
