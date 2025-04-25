@@ -634,7 +634,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-87" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;支付时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-415" y="490" width="95" height="30" as="geometry" />
+          <mxGeometry x="-320" y="460" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-88" value="" style="endArrow=none;html=1;rounded=0;exitX=0.585;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="y5Qs9hLnwx7ZL5iUXA9D-89" source="y5Qs9hLnwx7ZL5iUXA9D-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-562.5" y="580" as="sourcePoint" />
+            <mxPoint x="-382.5" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-89" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;支付时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-302.5" y="500" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
