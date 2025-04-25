@@ -1030,7 +1030,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-222" value="订单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-900" width="80" height="30" as="geometry" />
+          <mxGeometry x="690" y="-900" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-223" target="y5Qs9hLnwx7ZL5iUXA9D-226">
           <mxGeometry relative="1" as="geometry">
@@ -1123,7 +1123,7 @@
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-273" value="产生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="-1230" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-275" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-275" value="属于" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="-992" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
