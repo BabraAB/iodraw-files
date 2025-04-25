@@ -301,13 +301,13 @@
           <mxGeometry y="220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-2" value="订单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry y="80" width="80" height="30" as="geometry" />
+          <mxGeometry x="-330" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-3" value="日志" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-330" y="-10" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-4" value="充电桩" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry y="330" width="80" height="30" as="geometry" />
+          <mxGeometry x="-40" y="-30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-5" value="用户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-160" y="230" width="80" height="30" as="geometry" />
@@ -316,7 +316,7 @@
           <mxGeometry x="-160" y="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-7" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry y="-30" width="80" height="30" as="geometry" />
+          <mxGeometry x="10" y="80" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
