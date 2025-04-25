@@ -1021,11 +1021,6 @@
             <mxPoint x="520" y="-1205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-249" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-221" target="y5Qs9hLnwx7ZL5iUXA9D-222">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-1110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-221" value="管理员" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="335" y="-1220" width="80" height="30" as="geometry" />
         </mxCell>
@@ -1085,6 +1080,9 @@
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-260" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="-920" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-261" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="-1242" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
