@@ -385,10 +385,10 @@
           <mxGeometry x="-320" y="-200" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-25" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求路径&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="-140" width="80" height="20" as="geometry" />
+          <mxGeometry x="-250" y="-140" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-26" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求ip&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="-100" width="80" height="20" as="geometry" />
+          <mxGeometry x="-200" y="-110" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="y5Qs9hLnwx7ZL5iUXA9D-28" source="y5Qs9hLnwx7ZL5iUXA9D-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -414,8 +414,8 @@
             <mxPoint x="-310" y="-90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-32" value="描述" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="-170" width="80" height="20" as="geometry" />
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-32" value="请求处理时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="-170" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
