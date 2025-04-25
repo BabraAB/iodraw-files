@@ -1081,10 +1081,10 @@
           <mxGeometry x="355" y="-922" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-259" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="-922" width="30" height="30" as="geometry" />
+          <mxGeometry x="630" y="-910" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-260" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="615" y="-922" width="50" height="30" as="geometry" />
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-260" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-880" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
