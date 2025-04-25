@@ -1124,6 +1124,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="415" y="-1205" as="sourcePoint" />
             <mxPoint x="900" y="-900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="-1205" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-273" value="产生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
