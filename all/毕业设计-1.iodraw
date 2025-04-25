@@ -1037,8 +1037,10 @@
             <mxPoint x="280" y="-715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-223" target="y5Qs9hLnwx7ZL5iUXA9D-244">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-223" target="y5Qs9hLnwx7ZL5iUXA9D-222">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="-715" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-223" value="用户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="475" y="-730" width="80" height="30" as="geometry" />
@@ -1065,9 +1067,6 @@
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-226" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="65" y="-892.5" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-244" value="用户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="635" y="-730" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
