@@ -790,7 +790,7 @@
           <mxGeometry x="-95" y="401.87" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-128" value="纬度" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="383.75" width="70" height="20" as="geometry" />
+          <mxGeometry x="-30" y="383.75" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-129" value="电价" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="145" y="461.87" width="70" height="20" as="geometry" />
