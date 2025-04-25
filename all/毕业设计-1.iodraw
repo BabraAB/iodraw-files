@@ -1009,7 +1009,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-220" value="日志" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="790" y="-1050" width="80" height="30" as="geometry" />
+          <mxGeometry x="870" y="-1050" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-221" target="y5Qs9hLnwx7ZL5iUXA9D-226">
           <mxGeometry relative="1" as="geometry">
@@ -1021,7 +1021,7 @@
             <mxPoint x="520" y="-1205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-249" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-221">
+        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-249" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-221" target="y5Qs9hLnwx7ZL5iUXA9D-222">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="-1110" as="targetPoint" />
           </mxGeometry>
@@ -1035,7 +1035,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-222" value="订单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-892.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="660" y="-892.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-223" target="y5Qs9hLnwx7ZL5iUXA9D-226">
           <mxGeometry relative="1" as="geometry">
@@ -1064,7 +1064,7 @@
           <mxGeometry x="470" y="-1050" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-225" value="充电桩" style="whiteSpace=wrap;html=1;align=center;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="465" y="-900" width="90" height="45" as="geometry" />
+          <mxGeometry x="360" y="-907.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-226" target="y5Qs9hLnwx7ZL5iUXA9D-225">
           <mxGeometry relative="1" as="geometry">
