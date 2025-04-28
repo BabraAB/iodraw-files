@@ -1669,10 +1669,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-124" value="用户名存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="130" width="85" height="30" as="geometry" />
+          <mxGeometry x="1237.75" y="130" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-128" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1245.25" y="170" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-131" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="118" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
