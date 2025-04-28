@@ -1312,11 +1312,14 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-4" value="充电桩是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="290" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-7" target="qPmOAxhEpb1KlF9k2zPI-4">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-7" target="5_E8OqvAuveFbYaPecNz-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-7" value="用户已登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="188" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
