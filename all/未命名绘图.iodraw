@@ -1798,6 +1798,9 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-173" value="用户余额扣款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="457.5" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-174" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="452.5" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
