@@ -1825,7 +1825,7 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-180" value="修改订单状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1415" y="460.5" width="90" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-182" value="个人中心流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-182" value="用户登录流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1767" y="-320" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-184" target="qPmOAxhEpb1KlF9k2zPI-211">
