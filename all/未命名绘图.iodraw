@@ -1807,8 +1807,8 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-174" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1360" y="425" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-176" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1303.0600000000002" y="505" width="64.63" height="20" as="geometry" />
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-176" value="提示用户余额不足，支付失败" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1303.06" y="505" width="76.94" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
