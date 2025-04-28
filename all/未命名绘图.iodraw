@@ -1677,7 +1677,7 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-131" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1268" y="120" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-132" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-132" value="用户已登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
