@@ -1689,8 +1689,8 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-134" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1100" y="198" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-135" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1006.5" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-135" value="展示用户信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1006.5" y="310" width="93.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
