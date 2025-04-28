@@ -1564,7 +1564,7 @@
             <mxPoint x="1141.75" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-94" value="用户已登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-94" value="用户已有账号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1101.75" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-95" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
