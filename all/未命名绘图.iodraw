@@ -1289,7 +1289,7 @@
         <mxCell id="5_E8OqvAuveFbYaPecNz-1" value="选择充电桩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="230" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-1" target="5_E8OqvAuveFbYaPecNz-1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-1" target="qPmOAxhEpb1KlF9k2zPI-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="230" as="targetPoint" />
           </mxGeometry>
@@ -1312,8 +1312,11 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-4" value="充电桩是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="290" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-7" target="qPmOAxhEpb1KlF9k2zPI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-7" value="用户已登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="130" width="80" height="40" as="geometry" />
+          <mxGeometry x="100" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
