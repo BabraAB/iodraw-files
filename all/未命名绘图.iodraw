@@ -1783,20 +1783,20 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-168" value="输入订单号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="250" width="123.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-172" target="qPmOAxhEpb1KlF9k2zPI-171">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-172" target="qPmOAxhEpb1KlF9k2zPI-173">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1447.25" y="460" as="targetPoint" />
             <mxPoint x="1387" y="472.56000000000006" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-171" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="445.5" width="60" height="25" as="geometry" />
+          <mxGeometry x="1520" y="465" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-172" value="余额充足" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1295.5" y="453.75" width="79.75" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-173" value="用户余额扣款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="400" width="80" height="30" as="geometry" />
+          <mxGeometry x="1420" y="457.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
