@@ -1650,6 +1650,9 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-115" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360.5" y="467.5" width="60" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-118" target="qPmOAxhEpb1KlF9k2zPI-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-118" value="信息校验合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1362.5" y="140" width="85" height="30" as="geometry" />
         </mxCell>
@@ -1658,6 +1661,9 @@
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-121" value="输入注册信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1350" y="210" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-124" value="信息校验合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1197.5" y="140" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
