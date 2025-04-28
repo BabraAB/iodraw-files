@@ -1521,7 +1521,7 @@
           <mxGeometry x="129.75" y="350" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-80" value="获取充电桩编号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="320" width="84.25" height="20" as="geometry" />
+          <mxGeometry x="-70" y="315" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-82" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="308" width="40" height="30" as="geometry" />
