@@ -1376,6 +1376,9 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-30" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="173" y="390" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-31" value="输入充电桩编号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
