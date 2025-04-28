@@ -1808,7 +1808,7 @@
           <mxGeometry x="1360" y="425" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-176" value="提示用户余额不足，支付失败" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1303.06" y="505" width="76.94" height="45" as="geometry" />
+          <mxGeometry x="1303.06" y="505" width="86.94" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
