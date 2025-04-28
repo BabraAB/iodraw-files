@@ -1602,7 +1602,7 @@
             <mxPoint x="1143.5" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-102" value="充电桩是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-102" value="输入信息匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1091.75" y="325" width="103.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-103" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1653,7 +1653,7 @@
           <mxGeometry x="1360.5" y="467.5" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-118" value="信息校验合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="65" width="80" height="45" as="geometry" />
+          <mxGeometry x="1390" y="110" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
