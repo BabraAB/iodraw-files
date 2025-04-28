@@ -1339,13 +1339,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="275" y="120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="275" y="115" />
+              <mxPoint x="275" y="125" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qPmOAxhEpb1KlF9k2zPI-21">
-          <mxGeometry x="0.4668" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-14" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
