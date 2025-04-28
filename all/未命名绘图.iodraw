@@ -1790,7 +1790,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-171" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="465" width="60" height="25" as="geometry" />
+          <mxGeometry x="1440" y="525" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-172" value="余额充足" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1295.5" y="453.75" width="79.75" height="37.5" as="geometry" />
