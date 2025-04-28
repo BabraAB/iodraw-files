@@ -1287,7 +1287,7 @@
         <mxCell id="5_E8OqvAuveFbYaPecNz-1" value="系统用户主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="100" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5_E8OqvAuveFbYaPecNz-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5_E8OqvAuveFbYaPecNz-2" value="用户" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="314" y="195" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
