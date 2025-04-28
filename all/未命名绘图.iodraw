@@ -1379,7 +1379,7 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-30" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="338.25" y="380" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-31" value="输入充电桩编号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-31" value="输入充电桩编号，订单号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="255" width="123.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-34" target="qPmOAxhEpb1KlF9k2zPI-38">
@@ -1396,6 +1396,9 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="qPmOAxhEpb1KlF9k2zPI-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="183.2499999999999" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="271" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-48" value="预约充电桩流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
