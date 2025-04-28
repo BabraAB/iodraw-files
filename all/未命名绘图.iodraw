@@ -1415,11 +1415,14 @@
             <mxPoint x="833.5" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-52" target="qPmOAxhEpb1KlF9k2zPI-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-52" value="用户已登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-53" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="220" width="40" height="30" as="geometry" />
+          <mxGeometry x="620" y="225" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-54" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="750" y="180" width="40" height="30" as="geometry" />
@@ -1434,6 +1437,9 @@
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-56" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="813.5" y="200" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-57" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
