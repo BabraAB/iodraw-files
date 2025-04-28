@@ -1535,8 +1535,8 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-83" value="修改订单状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-72.5" y="385" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-85" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-85" value="修改充电桩状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="480" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
