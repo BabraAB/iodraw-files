@@ -1577,7 +1577,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-98" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1398.25" y="211" width="70" height="20" as="geometry" />
+          <mxGeometry x="1382.25" y="211" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-112" target="qPmOAxhEpb1KlF9k2zPI-102">
           <mxGeometry relative="1" as="geometry">
@@ -1590,7 +1590,7 @@
             <mxPoint x="1350" y="346" as="sourcePoint" />
             <mxPoint x="1341.5" y="281" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1390" y="346" />
+              <mxPoint x="1390" y="354" />
               <mxPoint x="1390" y="286" />
             </Array>
           </mxGeometry>
@@ -1616,13 +1616,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-118" value="信息校验合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1515.5" y="131" width="85" height="30" as="geometry" />
+          <mxGeometry x="1499.5" y="131" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-121" target="qPmOAxhEpb1KlF9k2zPI-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-121" value="输入注册信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1503" y="211" width="110" height="20" as="geometry" />
+          <mxGeometry x="1487" y="211" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-124" target="qPmOAxhEpb1KlF9k2zPI-98">
           <mxGeometry relative="1" as="geometry" />
@@ -1631,10 +1631,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-124" value="用户名存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390.75" y="131" width="85" height="30" as="geometry" />
+          <mxGeometry x="1374.75" y="131" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-128" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1398.25" y="171" width="40" height="30" as="geometry" />
+          <mxGeometry x="1382.25" y="171" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-131" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1348.25" y="121" width="40" height="30" as="geometry" />
