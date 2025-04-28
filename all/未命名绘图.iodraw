@@ -1303,7 +1303,7 @@
             <mxPoint x="190.25" y="325" as="sourcePoint" />
             <mxPoint x="181.75" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="230" y="360" />
+              <mxPoint x="230" y="405" />
               <mxPoint x="230" y="265" />
             </Array>
           </mxGeometry>
@@ -1358,13 +1358,12 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-19" value="修改充电桩状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86.25" y="525" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-24" target="qPmOAxhEpb1KlF9k2zPI-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="149.99571428571423" y="490.01071428571424" as="sourcePoint" />
-            <mxPoint x="222.71" y="290" as="targetPoint" />
+            <mxPoint x="181.75" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="323.71" y="425" />
-              <mxPoint x="323.71" y="290" />
+              <mxPoint x="310" y="480" />
+              <mxPoint x="310" y="265" />
             </Array>
           </mxGeometry>
         </mxCell>
