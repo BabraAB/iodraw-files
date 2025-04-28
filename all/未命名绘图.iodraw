@@ -1380,7 +1380,7 @@
           <mxGeometry x="338.25" y="380" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-31" value="输入充电桩编号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="250" width="123.5" height="30" as="geometry" />
+          <mxGeometry x="240" y="255" width="123.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-34" target="qPmOAxhEpb1KlF9k2zPI-38">
           <mxGeometry relative="1" as="geometry">
