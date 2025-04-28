@@ -1382,8 +1382,16 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-31" value="输入充电桩编号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="74.75" y="260" width="123.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qPmOAxhEpb1KlF9k2zPI-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416.75" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-34" value="生成充电订单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="256.5" y="462.5" width="93.5" height="27.5" as="geometry" />
+          <mxGeometry x="256.5" y="461.25" width="93.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
