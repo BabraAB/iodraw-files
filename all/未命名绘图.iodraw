@@ -1925,7 +1925,7 @@
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-21" value="查看充电站详情" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="165" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7gE_ly7XBFn8CYUy8k_G-23" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7gE_ly7XBFn8CYUy8k_G-23" value="inclued" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="7gE_ly7XBFn8CYUy8k_G-21" target="7gE_ly7XBFn8CYUy8k_G-8">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="290" y="210" as="sourcePoint" />
             <mxPoint x="450" y="210" as="targetPoint" />
