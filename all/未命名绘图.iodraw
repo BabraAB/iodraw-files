@@ -2054,16 +2054,16 @@
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-50" value="充电问题反馈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="-50" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7gE_ly7XBFn8CYUy8k_G-51" value="inclued" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="7gE_ly7XBFn8CYUy8k_G-50">
+        <mxCell id="7gE_ly7XBFn8CYUy8k_G-51" value="inclued" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="7gE_ly7XBFn8CYUy8k_G-50" source="7gE_ly7XBFn8CYUy8k_G-6">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="167" y="-27" as="sourcePoint" />
             <mxPoint x="337" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-52" value="取消维修" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="322" y="10" width="80" height="30" as="geometry" />
+          <mxGeometry x="342" y="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7gE_ly7XBFn8CYUy8k_G-53" value="inclued" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="7gE_ly7XBFn8CYUy8k_G-52">
+        <mxCell id="7gE_ly7XBFn8CYUy8k_G-53" value="inclued" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="7gE_ly7XBFn8CYUy8k_G-52" source="7gE_ly7XBFn8CYUy8k_G-6">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="158" y="-17" as="sourcePoint" />
             <mxPoint x="347" as="targetPoint" />
