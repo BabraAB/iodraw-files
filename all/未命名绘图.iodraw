@@ -1947,7 +1947,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-27" value="支付订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="10" width="80" height="30" as="geometry" />
+          <mxGeometry x="520" y="10" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="7gE_ly7XBFn8CYUy8k_G-29" source="7gE_ly7XBFn8CYUy8k_G-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1974,7 +1974,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-33" value="余额充值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="350" width="80" height="30" as="geometry" />
+          <mxGeometry x="620" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="7gE_ly7XBFn8CYUy8k_G-35" source="7gE_ly7XBFn8CYUy8k_G-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
