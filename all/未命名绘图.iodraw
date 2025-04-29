@@ -1855,7 +1855,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0uNvtgQyZHJ6hej7gMcW" name="用例图">
-    <mxGraphModel dx="893" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2052,30 +2052,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-50" value="充电问题反馈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452" y="400" width="80" height="30" as="geometry" />
+          <mxGeometry x="369" y="-50" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-51" value="inclued" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="7gE_ly7XBFn8CYUy8k_G-50">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="250" y="423" as="sourcePoint" />
-            <mxPoint x="420" y="440" as="targetPoint" />
+            <mxPoint x="167" y="-27" as="sourcePoint" />
+            <mxPoint x="337" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-52" value="取消维修" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="460" width="80" height="30" as="geometry" />
+          <mxGeometry x="322" y="10" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-53" value="inclued" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="7gE_ly7XBFn8CYUy8k_G-52">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="241" y="433" as="sourcePoint" />
-            <mxPoint x="430" y="450" as="targetPoint" />
+            <mxPoint x="158" y="-17" as="sourcePoint" />
+            <mxPoint x="347" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-54" value="进行维修" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="480" width="80" height="30" as="geometry" />
+          <mxGeometry x="197" y="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7gE_ly7XBFn8CYUy8k_G-55" value="inclued" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="7gE_ly7XBFn8CYUy8k_G-54">
+        <mxCell id="7gE_ly7XBFn8CYUy8k_G-55" value="inclued" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="7gE_ly7XBFn8CYUy8k_G-54" source="7gE_ly7XBFn8CYUy8k_G-6">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="223" y="438" as="sourcePoint" />
-            <mxPoint x="440" y="460" as="targetPoint" />
+            <mxPoint x="140" y="-12" as="sourcePoint" />
+            <mxPoint x="357" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
