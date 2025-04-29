@@ -1896,7 +1896,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-10" value="订单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="250" width="72" height="30" as="geometry" />
+          <mxGeometry x="224" y="250" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-11" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="150" width="30" height="60" as="geometry" />
