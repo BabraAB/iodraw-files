@@ -1873,7 +1873,7 @@
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="180" as="sourcePoint" />
-            <mxPoint x="400" y="250" as="targetPoint" />
+            <mxPoint x="300" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
