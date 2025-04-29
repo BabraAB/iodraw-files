@@ -1863,9 +1863,9 @@
           <mxGeometry x="160" y="150" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-2" value="登录" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="390" y="140" width="70" height="30" as="geometry" />
+          <mxGeometry x="370" y="165" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7gE_ly7XBFn8CYUy8k_G-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7gE_ly7XBFn8CYUy8k_G-1">
+        <mxCell id="7gE_ly7XBFn8CYUy8k_G-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7gE_ly7XBFn8CYUy8k_G-1" target="7gE_ly7XBFn8CYUy8k_G-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="180" as="sourcePoint" />
             <mxPoint x="300" y="220" as="targetPoint" />
@@ -1876,6 +1876,9 @@
             <mxPoint x="350" y="230" as="sourcePoint" />
             <mxPoint x="400" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7gE_ly7XBFn8CYUy8k_G-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
