@@ -1877,8 +1877,8 @@
             <mxPoint x="370" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7gE_ly7XBFn8CYUy8k_G-6" value="订单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="267" y="230" width="72" height="30" as="geometry" />
+        <mxCell id="7gE_ly7XBFn8CYUy8k_G-6" value="充电站管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7gE_ly7XBFn8CYUy8k_G-8" source="7gE_ly7XBFn8CYUy8k_G-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1896,7 +1896,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-10" value="订单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="268" y="290" width="72" height="30" as="geometry" />
+          <mxGeometry x="268" y="330" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7gE_ly7XBFn8CYUy8k_G-11" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="150" width="30" height="60" as="geometry" />
