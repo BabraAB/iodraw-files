@@ -1552,13 +1552,13 @@
           <mxGeometry x="218" y="715" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-62" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="230" y="692" width="70" height="20" as="geometry" />
+          <mxGeometry x="293" y="709.49" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-63" value="充电量" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="318" y="765.5" width="63" height="15.26" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-64" value="开始时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="323" y="729.49" width="58" height="21.63" as="geometry" />
+          <mxGeometry x="328" y="729.49" width="58" height="21.63" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-65" value="电费" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="388" y="763.75" width="52" height="18.75" as="geometry" />
@@ -1624,7 +1624,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-79" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;逻辑删除标识&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="64.5" y="752.75" width="87" height="25.25" as="geometry" />
+          <mxGeometry x="65" y="757.25" width="87" height="25.25" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-80" value="用户" style="whiteSpace=wrap;html=1;align=center;direction=west;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="-72.5" y="905" width="80" height="30" as="geometry" />
@@ -2192,7 +2192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-212" value="使用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="105" y="785" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="105" y="782.49" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-213" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-212" target="6CVCMNiFj1yamjgliFWy-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
