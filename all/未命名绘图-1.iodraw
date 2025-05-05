@@ -856,7 +856,7 @@
           <mxGeometry x="2" y="856.24" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-160" value="接口类型" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="140" y="833.11" width="70" height="20" as="geometry" />
+          <mxGeometry x="61" y="810" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-164" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-147" target="y5Qs9hLnwx7ZL5iUXA9D-165" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
