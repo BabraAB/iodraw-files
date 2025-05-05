@@ -1873,7 +1873,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-135" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;充电桩id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-123.5" y="804.98" width="73" height="28.13" as="geometry" />
+          <mxGeometry x="-133.5" y="843.12" width="73" height="28.13" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-136" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="-367" y="778.12" width="80" height="30" as="geometry" />
