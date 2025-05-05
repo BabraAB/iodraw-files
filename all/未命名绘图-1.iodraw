@@ -1768,13 +1768,13 @@
           <mxGeometry x="-137" y="646.24" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-110" value="充电站地址" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-200" y="494.99" width="70" height="20" as="geometry" />
+          <mxGeometry x="-117" y="621" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-111" value="经度" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-62" y="556" width="70" height="20" as="geometry" />
+          <mxGeometry x="-62" y="606.24" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-112" value="纬度" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-5.5" y="626.24" width="70" height="20" as="geometry" />
+          <mxGeometry x="22" y="581" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-113" value="电价" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="68" y="635" width="70" height="20" as="geometry" />
