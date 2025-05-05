@@ -1348,7 +1348,7 @@
           <mxGeometry x="501" y="923.88" width="64" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-16" value="描述" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="479.75" y="948.5" width="51" height="17.51" as="geometry" />
+          <mxGeometry x="514.5" y="882.5" width="51" height="17.51" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-17" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求路径&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="331" y="927.5" width="62" height="22.75" as="geometry" />
@@ -1393,7 +1393,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-27" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求方法类路径&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="483" y="982.38" width="102" height="23.5" as="geometry" />
+          <mxGeometry x="469" y="945.51" width="102" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-28" value="管理员" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="410" y="542" width="80" height="30" as="geometry" />
