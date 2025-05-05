@@ -293,7 +293,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vDcgwB_5uMRNr6FKbaOx" name="ER图">
-    <mxGraphModel dx="1693" dy="1336" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1447" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -889,7 +889,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-170" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;充电桩id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-135" y="829.98" width="80" height="36.25" as="geometry" />
+          <mxGeometry x="-130" y="809.37" width="80" height="36.25" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-171" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-410" y="778.12" width="80" height="30" as="geometry" />
