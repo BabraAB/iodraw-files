@@ -1342,13 +1342,13 @@
           <mxGeometry x="730" y="766.87" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-14" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求参数&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="587" y="813.11" width="70" height="20" as="geometry" />
+          <mxGeometry x="611" y="809.99" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-15" value="请求响应" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="563" y="831.87" width="64" height="20" as="geometry" />
+          <mxGeometry x="576" y="825.0600000000001" width="64" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-16" value="描述" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="612" y="839.98" width="51" height="17.51" as="geometry" />
+          <mxGeometry x="630" y="843.12" width="51" height="17.51" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-17" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求路径&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="558" y="886" width="62" height="22.75" as="geometry" />
