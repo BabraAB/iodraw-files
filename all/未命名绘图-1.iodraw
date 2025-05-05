@@ -1345,10 +1345,10 @@
           <mxGeometry x="593" y="813.11" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-15" value="请求响应" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="785" y="823.12" width="70" height="20" as="geometry" />
+          <mxGeometry x="670" y="824" width="64" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-16" value="描述" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="770" y="856.87" width="80" height="20" as="geometry" />
+          <mxGeometry x="623" y="837.47" width="51" height="17.51" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-17" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求路径&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="601" y="886" width="76" height="23.75" as="geometry" />
