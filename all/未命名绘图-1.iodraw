@@ -1927,7 +1927,7 @@
           <mxGeometry x="-312.5" y="857.49" width="85" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-147" value="维修状态" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-285" y="823.12" width="70" height="20" as="geometry" />
+          <mxGeometry x="-244" y="804.98" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-148" value="维修结束时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="-310" y="683.12" width="80" height="25" as="geometry" />
@@ -2228,10 +2228,10 @@
           <mxGeometry x="-395" y="930" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-221" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-135" y="771.25" width="30" height="30" as="geometry" />
+          <mxGeometry x="-112" y="774.98" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-222" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-240" y="775" width="30" height="30" as="geometry" />
+          <mxGeometry x="-210" y="774.98" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-223" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="-10" y="716.87" width="30" height="30" as="geometry" />
