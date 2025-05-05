@@ -1555,13 +1555,13 @@
           <mxGeometry x="230" y="692" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-63" value="充电量" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="337.5" y="751.12" width="63" height="15.26" as="geometry" />
+          <mxGeometry x="318" y="765.5" width="63" height="15.26" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-64" value="开始时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="306.5" y="717.5" width="58" height="21.63" as="geometry" />
+          <mxGeometry x="323" y="729.49" width="58" height="21.63" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-65" value="电费" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="324" y="771.25" width="52" height="18.75" as="geometry" />
+          <mxGeometry x="388" y="763.75" width="52" height="18.75" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-66" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;服务费&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="366" y="785" width="69" height="18.51" as="geometry" />
