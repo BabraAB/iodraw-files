@@ -1641,7 +1641,7 @@
             <mxPoint x="51.5" y="897.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6CVCMNiFj1yamjgliFWy-83" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-80" target="6CVCMNiFj1yamjgliFWy-92">
+        <mxCell id="6CVCMNiFj1yamjgliFWy-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-80" target="6CVCMNiFj1yamjgliFWy-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="11.5" y="967.5" as="sourcePoint" />
             <mxPoint x="51.5" y="887.5" as="targetPoint" />
@@ -1653,7 +1653,7 @@
             <mxPoint x="-18.5" y="887.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6CVCMNiFj1yamjgliFWy-85" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.57;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-80" target="6CVCMNiFj1yamjgliFWy-88">
+        <mxCell id="6CVCMNiFj1yamjgliFWy-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-80" target="6CVCMNiFj1yamjgliFWy-88">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="21.5" y="977.5" as="sourcePoint" />
             <mxPoint x="-108.5" y="937.5" as="targetPoint" />
@@ -1684,7 +1684,7 @@
           <mxGeometry x="36.5" y="975.25" width="44" height="14" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-92" value="密码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-104" y="954.5" width="43.5" height="18.5" as="geometry" />
+          <mxGeometry x="-137" y="954.5" width="43.5" height="18.5" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-93" value="头像" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="34" y="954.5" width="49" height="18.5" as="geometry" />
