@@ -1524,13 +1524,13 @@
             <mxPoint x="535" y="668.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6CVCMNiFj1yamjgliFWy-56" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-50" target="6CVCMNiFj1yamjgliFWy-59">
+        <mxCell id="6CVCMNiFj1yamjgliFWy-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-50" target="6CVCMNiFj1yamjgliFWy-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="385" y="708.12" as="sourcePoint" />
             <mxPoint x="255" y="668.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6CVCMNiFj1yamjgliFWy-57" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-50" target="6CVCMNiFj1yamjgliFWy-60">
+        <mxCell id="6CVCMNiFj1yamjgliFWy-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-50" target="6CVCMNiFj1yamjgliFWy-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="385" y="708.12" as="sourcePoint" />
             <mxPoint x="295" y="648.12" as="targetPoint" />
@@ -1575,7 +1575,7 @@
         <mxCell id="6CVCMNiFj1yamjgliFWy-68" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;订单总金额&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="348" y="808.12" width="74" height="23.75" as="geometry" />
         </mxCell>
-        <mxCell id="6CVCMNiFj1yamjgliFWy-69" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-50" target="6CVCMNiFj1yamjgliFWy-70">
+        <mxCell id="6CVCMNiFj1yamjgliFWy-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-50" target="6CVCMNiFj1yamjgliFWy-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="698.12" as="sourcePoint" />
             <mxPoint x="220" y="798.12" as="targetPoint" />
