@@ -1876,7 +1876,7 @@
           <mxGeometry x="-78" y="845.0600000000001" width="73" height="28.13" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-136" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-284.5" y="771.25" width="80" height="30" as="geometry" />
+          <mxGeometry x="-294" y="771.25" width="89.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-137" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-136" target="6CVCMNiFj1yamjgliFWy-148">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1890,7 +1890,7 @@
             <mxPoint x="-315" y="708.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6CVCMNiFj1yamjgliFWy-139" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-136" target="6CVCMNiFj1yamjgliFWy-145">
+        <mxCell id="6CVCMNiFj1yamjgliFWy-139" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-136" target="6CVCMNiFj1yamjgliFWy-145">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-355" y="788.75" as="sourcePoint" />
             <mxPoint x="-385" y="708.75" as="targetPoint" />
@@ -1921,7 +1921,7 @@
           <mxGeometry x="-345" y="717.5" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-145" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;报修时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-318" y="817.75" width="75" height="21.25" as="geometry" />
+          <mxGeometry x="-330" y="833.87" width="75" height="21.25" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-146" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;维修开始时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="-204.5" y="827.62" width="85" height="27.5" as="geometry" />
@@ -1947,14 +1947,14 @@
             <mxPoint x="-200" y="673.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6CVCMNiFj1yamjgliFWy-152" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-136" target="6CVCMNiFj1yamjgliFWy-153">
+        <mxCell id="6CVCMNiFj1yamjgliFWy-152" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-136" target="6CVCMNiFj1yamjgliFWy-153">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-365" y="863.75" as="sourcePoint" />
             <mxPoint x="-530" y="933.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-153" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;报表id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-452.5" y="793.12" width="80" height="25" as="geometry" />
+          <mxGeometry x="-410" y="782.5" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-154" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-100" target="6CVCMNiFj1yamjgliFWy-155">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
