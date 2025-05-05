@@ -1492,7 +1492,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-50" value="订单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="255" y="790.62" width="80" height="30" as="geometry" />
+          <mxGeometry x="254" y="783.74" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" target="6CVCMNiFj1yamjgliFWy-65" source="6CVCMNiFj1yamjgliFWy-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1876,7 +1876,7 @@
           <mxGeometry x="-78" y="845.0600000000001" width="73" height="28.13" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-136" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-277.5" y="770" width="89.5" height="30" as="geometry" />
+          <mxGeometry x="-277.5" y="783.75" width="89.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-137" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-136" target="6CVCMNiFj1yamjgliFWy-148">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
