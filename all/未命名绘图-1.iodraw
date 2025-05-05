@@ -1924,10 +1924,10 @@
           <mxGeometry x="-412" y="818.12" width="75" height="21.25" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-146" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;维修开始时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-260" y="829.99" width="85" height="27.5" as="geometry" />
+          <mxGeometry x="-204.5" y="827.62" width="85" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-147" value="维修状态" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-244" y="804.98" width="70" height="20" as="geometry" />
+          <mxGeometry x="-197" y="801.24" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-148" value="维修结束时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="-188" y="718.12" width="80" height="25" as="geometry" />
@@ -1939,7 +1939,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-150" value="维修记录" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-265" y="760" width="80" height="30" as="geometry" />
+          <mxGeometry x="-197" y="748" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry relative="1" as="geometry">
@@ -2231,7 +2231,7 @@
           <mxGeometry x="-62" y="774.98" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-222" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-210" y="774.98" width="30" height="30" as="geometry" />
+          <mxGeometry x="-157" y="775.0600000000001" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-223" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="-7" y="740" width="30" height="30" as="geometry" />
