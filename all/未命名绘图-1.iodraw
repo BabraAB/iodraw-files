@@ -1282,7 +1282,7 @@
         <mxCell id="6CVCMNiFj1yamjgliFWy-0" />
         <mxCell id="6CVCMNiFj1yamjgliFWy-1" parent="6CVCMNiFj1yamjgliFWy-0" />
         <mxCell id="6CVCMNiFj1yamjgliFWy-2" value="日志" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="422.5" y="905" width="85" height="30" as="geometry" />
+          <mxGeometry x="407.5" y="905" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-2" target="6CVCMNiFj1yamjgliFWy-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1354,7 +1354,7 @@
           <mxGeometry x="335" y="923.87" width="62" height="22.75" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-18" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求ip&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="407.25" y="854.98" width="47" height="21.25" as="geometry" />
+          <mxGeometry x="400.5" y="852.5600000000001" width="47" height="21.25" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-2" target="6CVCMNiFj1yamjgliFWy-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
