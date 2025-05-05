@@ -1555,7 +1555,7 @@
           <mxGeometry x="255" y="695" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-63" value="充电量" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="390" y="698.74" width="70" height="20" as="geometry" />
+          <mxGeometry x="325" y="751.12" width="63" height="15.26" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-64" value="开始时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="293" y="725.24" width="58" height="21.63" as="geometry" />
@@ -1591,7 +1591,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-72" value="结束时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="408" y="656.24" width="62" height="20.76" as="geometry" />
+          <mxGeometry x="330.5" y="706.11" width="62" height="20.76" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry relative="1" as="geometry">
