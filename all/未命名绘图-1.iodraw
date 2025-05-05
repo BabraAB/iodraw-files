@@ -1924,10 +1924,10 @@
           <mxGeometry x="-322" y="817.75" width="75" height="21.25" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-146" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;维修开始时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-204.5" y="827.62" width="85" height="27.5" as="geometry" />
+          <mxGeometry x="-223" y="834.56" width="89" height="18" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-147" value="维修状态" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-197" y="801.24" width="70" height="20" as="geometry" />
+          <mxGeometry x="-178" y="810" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-148" value="维修结束时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="-188" y="718.12" width="80" height="25" as="geometry" />
