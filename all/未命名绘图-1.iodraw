@@ -1771,10 +1771,10 @@
           <mxGeometry x="-117" y="621" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-111" value="经度" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-62" y="606.24" width="70" height="20" as="geometry" />
+          <mxGeometry x="-54" y="609" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-112" value="纬度" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="22" y="581" width="70" height="20" as="geometry" />
+          <mxGeometry x="57" y="609" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-113" value="电价" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry x="68" y="635" width="70" height="20" as="geometry" />
@@ -1804,7 +1804,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-120" value="状态" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="55" y="613" width="70" height="20" as="geometry" />
+          <mxGeometry x="-7.5" y="629" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1">
           <mxGeometry relative="1" as="geometry">
@@ -2171,7 +2171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-207" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6CVCMNiFj1yamjgliFWy-1">
-          <mxGeometry x="-410" y="455" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="-327" y="591.87" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="6CVCMNiFj1yamjgliFWy-208" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6CVCMNiFj1yamjgliFWy-1" source="6CVCMNiFj1yamjgliFWy-207" target="6CVCMNiFj1yamjgliFWy-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
