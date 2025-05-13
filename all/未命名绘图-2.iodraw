@@ -1261,7 +1261,7 @@
             <mxPoint x="-69" y="-436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yYIP0iNsKXeUMV76Itl7-14" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-14" value="维修" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-45" y="-247.5" width="80" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="yYIP0iNsKXeUMV76Itl7-14" source="y5Qs9hLnwx7ZL5iUXA9D-225">
