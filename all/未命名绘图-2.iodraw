@@ -1374,7 +1374,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-54" value="充电桩维修报表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-438" y="-232" width="80" height="30" as="geometry" />
+          <mxGeometry x="-438" y="-232" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54" target="yYIP0iNsKXeUMV76Itl7-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1422,7 +1422,7 @@
           <mxGeometry x="-452" y="-161" width="71.5" height="27.37" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-64" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;维修开始时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-372" y="-164.63" width="79" height="31" as="geometry" />
+          <mxGeometry x="-372" y="-164.63" width="80" height="27.63" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-65" value="维修状态" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-332" y="-211" width="70" height="20" as="geometry" />
