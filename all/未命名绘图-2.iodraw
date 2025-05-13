@@ -2754,6 +2754,11 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-219" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1877.25" y="236.25" width="58" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8dBnD1A4dBU-Tp32GSK3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8dBnD1A4dBU-Tp32GSK3-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1801.5" y="-47" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8dBnD1A4dBU-Tp32GSK3-6" value="输入信息校验合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1737.4999999999998" y="-166" width="128" height="39" as="geometry" />
         </mxCell>
