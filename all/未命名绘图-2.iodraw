@@ -1325,12 +1325,6 @@
             <mxPoint x="35" y="-712" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yYIP0iNsKXeUMV76Itl7-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="165" y="-672" as="sourcePoint" />
-            <mxPoint x="53.249999999999545" y="-624.49" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-32" target="yYIP0iNsKXeUMV76Itl7-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="165" y="-672" as="sourcePoint" />
@@ -1338,25 +1332,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-41" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="25.25" y="-576" width="64.75" height="28" as="geometry" />
+          <mxGeometry x="30" y="-623" width="64.75" height="28" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-43" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;昵称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="37" y="-705" width="58" height="28" as="geometry" />
+          <mxGeometry x="24" y="-674" width="58" height="28" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-44" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;性别&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="122" y="-717" width="66" height="29" as="geometry" />
+          <mxGeometry x="82" y="-703" width="66" height="29" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-45" value="密码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="217" y="-706" width="58" height="29" as="geometry" />
+          <mxGeometry x="165" y="-705" width="58" height="29" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-46" value="头像" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="277" y="-674" width="55" height="28" as="geometry" />
+          <mxGeometry x="235" y="-689" width="55" height="28" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-47" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="257" y="-586" width="61" height="25" as="geometry" />
+          <mxGeometry x="248" y="-613.5" width="61" height="25" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-48" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-562" width="63" height="30" as="geometry" />
+          <mxGeometry x="185" y="-588.5" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-32" target="yYIP0iNsKXeUMV76Itl7-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1365,7 +1359,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-50" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;管理员id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="105" y="-565" width="80" height="30" as="geometry" />
+          <mxGeometry x="90" y="-591" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-32" target="yYIP0iNsKXeUMV76Itl7-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1374,7 +1368,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-52" value="手机" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280.5" y="-628" width="62" height="27" as="geometry" />
+          <mxGeometry x="271" y="-655" width="62" height="27" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-47" target="yYIP0iNsKXeUMV76Itl7-47">
           <mxGeometry relative="1" as="geometry" />
