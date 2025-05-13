@@ -1373,7 +1373,7 @@
         <mxCell id="yYIP0iNsKXeUMV76Itl7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-47" target="yYIP0iNsKXeUMV76Itl7-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yYIP0iNsKXeUMV76Itl7-54" value="充电桩维修报表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-54" value="充电桩维修表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-437" y="-222" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54" target="yYIP0iNsKXeUMV76Itl7-66">
