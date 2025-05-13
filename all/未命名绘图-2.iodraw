@@ -1065,10 +1065,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-226" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-277" y="-242" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-257" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-197" y="-264" width="30" height="30" as="geometry" />
+          <mxGeometry x="-205" y="-244.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-258" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="13" y="-264" width="30" height="30" as="geometry" />
@@ -1090,9 +1087,6 @@
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-264" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-265" y="-364" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-265" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-277" y="-214" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-266" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="93" y="-64" width="30" height="30" as="geometry" />
