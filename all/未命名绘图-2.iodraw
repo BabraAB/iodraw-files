@@ -1787,6 +1787,108 @@
         <mxCell id="yYIP0iNsKXeUMV76Itl7-147" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;逻辑删除标识&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="427" y="-454.9999999999999" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-148" value="充电站" style="whiteSpace=wrap;html=1;align=center;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="608.12" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-149" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-163">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="691.87" as="sourcePoint" />
+            <mxPoint x="175" y="491.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-150" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-162">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="551.87" as="sourcePoint" />
+            <mxPoint x="75" y="471.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-151" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-161">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="541.87" as="sourcePoint" />
+            <mxPoint x="75" y="461.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-152" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-159">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="541.87" as="sourcePoint" />
+            <mxPoint x="5" y="461.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-153" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-164">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45" y="551.87" as="sourcePoint" />
+            <mxPoint x="195" y="511.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-154" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.57;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-157">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45" y="551.87" as="sourcePoint" />
+            <mxPoint x="-85" y="511.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-155" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-158">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45" y="551.87" as="sourcePoint" />
+            <mxPoint x="-45" y="491.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-156" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-160">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45" y="551.87" as="sourcePoint" />
+            <mxPoint x="20" y="416.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-157" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;充电站编号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-217.5" y="543.12" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-158" value="充电站地址" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="504.99" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-159" value="经度" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="500" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-160" value="纬度" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="509.99" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-161" value="电价" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="543.12" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-162" value="功率" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="497.5" width="75" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-163" value="电费" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="155" y="575.62" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-164" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;服务费&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="135" y="616.24" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-165" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="541.87" as="sourcePoint" />
+            <mxPoint x="-120" y="641.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-166" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;充电站名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="588.12" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-167" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-168">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45" y="551.87" as="sourcePoint" />
+            <mxPoint x="85" y="481.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-168" value="状态" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="115" y="504.99" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-169" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-170">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="616.87" as="sourcePoint" />
+            <mxPoint x="-140" y="686.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-170" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;充电站id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="636.24" width="75" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
