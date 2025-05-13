@@ -1104,9 +1104,6 @@
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-279" value="使用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="218" y="-254" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-280" value="维修" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-112" y="-249.5" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-302" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-93" target="y5Qs9hLnwx7ZL5iUXA9D-303" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="752.5" y="1000.11" as="sourcePoint" />
@@ -1266,7 +1263,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-10" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="-392" width="80" height="28.5" as="geometry" />
+          <mxGeometry x="-62" y="-359" width="80" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="yYIP0iNsKXeUMV76Itl7-10" source="y5Qs9hLnwx7ZL5iUXA9D-221">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
