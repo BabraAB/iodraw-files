@@ -1338,7 +1338,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-41" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="-722" width="80" height="20" as="geometry" />
+          <mxGeometry x="-23.75" y="-594" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-42" value="操作模块" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-25" y="-752" width="70" height="20" as="geometry" />
@@ -1356,10 +1356,10 @@
           <mxGeometry x="185" y="-752" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-47" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-732" width="80" height="30" as="geometry" />
+          <mxGeometry x="255" y="-590" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-48" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="-675" width="80" height="20" as="geometry" />
+          <mxGeometry x="200" y="-562" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-32" target="yYIP0iNsKXeUMV76Itl7-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
