@@ -1015,13 +1015,13 @@
           <mxGeometry x="130" y="-105" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-224" value="充电站" style="whiteSpace=wrap;html=1;align=center;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="77" y="-359" width="80" height="30" as="geometry" />
+          <mxGeometry x="77" y="-359" width="80" height="24" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-225" value="充电桩" style="whiteSpace=wrap;html=1;align=center;direction=south;" parent="1" vertex="1">
           <mxGeometry x="78" y="-242" width="78" height="24" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-226" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-182" y="-247.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="-182" y="-247.5" width="80" height="28" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-276" value="产生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-287" y="-454" width="50" height="30" as="geometry" />
