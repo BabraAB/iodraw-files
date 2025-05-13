@@ -1661,7 +1661,7 @@
         <mxCell id="yYIP0iNsKXeUMV76Itl7-119" value="订单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="625" y="-488.9999999999999" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yYIP0iNsKXeUMV76Itl7-120" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="yYIP0iNsKXeUMV76Itl7-134">
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-120" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="yYIP0iNsKXeUMV76Itl7-134" source="yYIP0iNsKXeUMV76Itl7-119">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="-473.6199999999999" as="sourcePoint" />
             <mxPoint x="885" y="-631.4999999999999" as="targetPoint" />
@@ -1673,7 +1673,7 @@
             <mxPoint x="785" y="-651.4999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yYIP0iNsKXeUMV76Itl7-122" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-132">
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-122" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-132">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="-489.6199999999999" as="sourcePoint" />
             <mxPoint x="785" y="-661.4999999999999" as="targetPoint" />
