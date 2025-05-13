@@ -1617,7 +1617,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-111" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求方法类路径&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-137.31" width="110" height="30" as="geometry" />
+          <mxGeometry x="532" y="-157" width="96" height="25.31" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-112" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-93" target="yYIP0iNsKXeUMV76Itl7-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1647,7 +1647,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-118" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求方法类路径&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="468" y="-185" width="97" height="28" as="geometry" />
+          <mxGeometry x="470" y="-183.44" width="97" height="28" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-119" value="订单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="637" y="-495.4099999999999" width="80" height="30" as="geometry" />
