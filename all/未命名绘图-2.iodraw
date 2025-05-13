@@ -2714,26 +2714,25 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-182" value="用户登录流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1743.14" y="-368" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-184" target="qPmOAxhEpb1KlF9k2zPI-187" edge="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-184" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1651.64" y="-206.00000000000023" as="targetPoint" />
+            <mxPoint x="1799.6206896551726" y="-209.99034482758623" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-184" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1763.14" y="-276" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-185" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-187" target="qPmOAxhEpb1KlF9k2zPI-191" edge="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-185" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="qPmOAxhEpb1KlF9k2zPI-191" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1945.5" y="-200" as="targetPoint" />
+            <mxPoint x="1839.6400000000003" y="-190.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-187" target="qPmOAxhEpb1KlF9k2zPI-198" edge="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="qPmOAxhEpb1KlF9k2zPI-198" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1799.64" y="-136" as="targetPoint" />
+            <mxPoint x="1799.6206896551726" y="-170.009655172414" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-187" value="用户已有账号" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1759.64" y="-210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-188" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1794.89" y="-176" width="40" height="30" as="geometry" />
