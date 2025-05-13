@@ -1503,7 +1503,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-81" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-7" y="26" width="70" height="30" as="geometry" />
+          <mxGeometry x="-5" y="29" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-82" value="角色" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="144" y="-50" width="56" height="28" as="geometry" />
@@ -1512,16 +1512,16 @@
           <mxGeometry x="70" y="-54" width="58" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-84" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;余额&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="224" y="60" width="61" height="27" as="geometry" />
+          <mxGeometry x="204" y="46.5" width="61" height="27" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-85" value="密码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="68" y="63" width="57" height="34.5" as="geometry" />
+          <mxGeometry x="68" y="63" width="59" height="32" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-86" value="头像" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="243" y="20.5" width="52" height="26" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-87" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="175" y="80" width="60" height="26.5" as="geometry" />
+          <mxGeometry x="142" y="63" width="60" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-88" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-73" target="yYIP0iNsKXeUMV76Itl7-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1530,7 +1530,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-89" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;用户id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-9" y="-31" width="64" height="29" as="geometry" />
+          <mxGeometry x="-5" y="-24" width="64" height="29" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-73" target="yYIP0iNsKXeUMV76Itl7-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
