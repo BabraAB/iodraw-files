@@ -2404,7 +2404,7 @@
           <mxGeometry x="670" y="190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-53" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="673.5" y="220" width="40" height="30" as="geometry" />
+          <mxGeometry x="645" y="220" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-54" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="750" y="180" width="40" height="30" as="geometry" />
@@ -2456,12 +2456,13 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-66" value="修改充电桩状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="661.75" y="455" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-69" target="qPmOAxhEpb1KlF9k2zPI-72" edge="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-69" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="756.75" y="270" as="targetPoint" />
+            <mxPoint x="709" y="254" as="targetPoint" />
             <Array as="points">
               <mxPoint x="885" y="410" />
-              <mxPoint x="885" y="275" />
+              <mxPoint x="885" y="235" />
+              <mxPoint x="762" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
