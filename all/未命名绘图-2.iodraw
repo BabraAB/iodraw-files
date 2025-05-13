@@ -293,7 +293,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vDcgwB_5uMRNr6FKbaOx" name="ER图">
-    <mxGraphModel dx="2111" dy="1582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1549" dy="1247" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1021,7 +1021,7 @@
           <mxGeometry x="78" y="-242" width="78" height="24" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-226" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-182" y="-247.5" width="80" height="24" as="geometry" />
+          <mxGeometry x="-110" y="-245.25" width="80" height="24" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-302" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-93" target="y5Qs9hLnwx7ZL5iUXA9D-303" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1197,7 +1197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-14" value="维修" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="-247.5" width="80" height="28.5" as="geometry" />
+          <mxGeometry x="-13" y="-245.25" width="80" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="yYIP0iNsKXeUMV76Itl7-14" source="y5Qs9hLnwx7ZL5iUXA9D-225">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1212,7 +1212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-17" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="-161" width="80" height="28.5" as="geometry" />
+          <mxGeometry x="-35" y="-150" width="80" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="yYIP0iNsKXeUMV76Itl7-17" source="y5Qs9hLnwx7ZL5iUXA9D-223">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
