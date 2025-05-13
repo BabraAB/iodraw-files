@@ -2727,7 +2727,7 @@
             <mxPoint x="1698.3900000000006" y="-53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-195" value="输入信息匹配" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-195" value="用户认证成功" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1749.64" y="-73" width="103.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-197" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -2754,8 +2754,11 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-219" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1877.25" y="236.25" width="58" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8dBnD1A4dBU-Tp32GSK3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8dBnD1A4dBU-Tp32GSK3-6" target="qPmOAxhEpb1KlF9k2zPI-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8dBnD1A4dBU-Tp32GSK3-6" value="输入信息校验合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1737.3899999999999" y="-179" width="128" height="39" as="geometry" />
+          <mxGeometry x="1737.4999999999998" y="-166" width="128" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
