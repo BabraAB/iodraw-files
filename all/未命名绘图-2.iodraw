@@ -1701,16 +1701,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-128" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;订单号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="-530" width="62.63" height="29" as="geometry" />
+          <mxGeometry x="517.37" y="-508.5" width="62.63" height="29" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-129" value="创建用户id" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="525" y="-559" width="73.5" height="29" as="geometry" />
+          <mxGeometry x="548.25" y="-537.5" width="73.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-130" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;充电桩id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="587" y="-577" width="63" height="26" as="geometry" />
+          <mxGeometry x="602" y="-553.5" width="63" height="26" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-131" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="657" y="-583.5" width="55" height="25" as="geometry" />
+          <mxGeometry x="657" y="-562.5" width="55" height="25" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-132" value="充电量" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="770" y="-524" width="65" height="28" as="geometry" />
