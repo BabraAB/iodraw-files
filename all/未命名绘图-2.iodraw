@@ -1649,14 +1649,14 @@
         <mxCell id="yYIP0iNsKXeUMV76Itl7-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-108" target="yYIP0iNsKXeUMV76Itl7-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yYIP0iNsKXeUMV76Itl7-117" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-93">
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-117" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-93" target="yYIP0iNsKXeUMV76Itl7-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="-226.69" as="sourcePoint" />
             <mxPoint x="567.4794660323755" y="-119.24839809712631" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-118" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求方法类路径&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-117.31" width="110" height="30" as="geometry" />
+          <mxGeometry x="445" y="-171" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
