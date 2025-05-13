@@ -1071,9 +1071,6 @@
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-260" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="288" y="-262" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-261" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="73" y="-584" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-262" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="563" y="-294" width="30" height="30" as="geometry" />
         </mxCell>
@@ -1257,6 +1254,9 @@
             <mxPoint x="107" y="-195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-3" target="yYIP0iNsKXeUMV76Itl7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-3" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="348" y="-389" width="80" height="28.5" as="geometry" />
         </mxCell>
@@ -1271,6 +1271,9 @@
             <mxPoint x="128" y="-379" as="sourcePoint" />
             <mxPoint x="128" y="-344" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-6" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="-497.5" width="80" height="28.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
