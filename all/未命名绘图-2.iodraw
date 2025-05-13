@@ -2768,6 +2768,9 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-219" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1877.25" y="236.25" width="58" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8dBnD1A4dBU-Tp32GSK3-3" value="输入信息匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1759.64" y="-63" width="103.5" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
