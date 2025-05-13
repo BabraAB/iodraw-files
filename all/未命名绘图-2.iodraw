@@ -1506,7 +1506,7 @@
           <mxGeometry x="-5" y="29" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-82" value="角色" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="144" y="-50" width="56" height="28" as="geometry" />
+          <mxGeometry x="144" y="-50" width="59" height="26" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-83" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;昵称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="70" y="-54" width="58" height="30" as="geometry" />
@@ -1539,7 +1539,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-91" value="手机" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="208" y="-11" width="70" height="20" as="geometry" />
+          <mxGeometry x="205" y="-22.75" width="54.5" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-87" target="yYIP0iNsKXeUMV76Itl7-87">
           <mxGeometry relative="1" as="geometry" />
