@@ -2793,7 +2793,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-201" value="信息校验合法" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2042" y="-101" width="85" height="30" as="geometry" />
+          <mxGeometry x="2065" y="-95" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-203" target="qPmOAxhEpb1KlF9k2zPI-201" edge="1">
           <mxGeometry relative="1" as="geometry" />
