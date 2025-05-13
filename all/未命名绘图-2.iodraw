@@ -2528,7 +2528,7 @@
           <mxGeometry x="-72.5" y="443" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-89" value="个人中心流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1750.25" y="107" width="110" height="30" as="geometry" />
+          <mxGeometry x="1747.25" y="86" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-91" target="qPmOAxhEpb1KlF9k2zPI-132" edge="1">
           <mxGeometry relative="1" as="geometry">
