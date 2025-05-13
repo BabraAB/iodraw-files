@@ -1679,7 +1679,7 @@
             <mxPoint x="785" y="-661.4999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yYIP0iNsKXeUMV76Itl7-123" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-130">
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-123" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-130">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="745" y="-581.4999999999999" as="sourcePoint" />
             <mxPoint x="715" y="-661.4999999999999" as="targetPoint" />
@@ -1778,7 +1778,7 @@
         <mxCell id="yYIP0iNsKXeUMV76Itl7-145" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;支付方式&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="762.5" y="-426.5099999999999" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yYIP0iNsKXeUMV76Itl7-146" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-147">
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-146" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-147">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="735" y="-506.4999999999999" as="sourcePoint" />
             <mxPoint x="570" y="-436.4999999999999" as="targetPoint" />
