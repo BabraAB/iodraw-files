@@ -1416,7 +1416,7 @@
           <mxGeometry x="-527" y="-244.75" width="77" height="28" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-62" value="故障描述" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-473" y="-266.69" width="70" height="27" as="geometry" />
+          <mxGeometry x="-495" y="-271.75" width="70" height="27" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-63" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;报修时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-500" y="-186" width="71.5" height="27.37" as="geometry" />
@@ -1428,7 +1428,7 @@
           <mxGeometry x="-320" y="-212.5" width="62" height="27" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-66" value="维修结束时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="-268" width="80" height="25" as="geometry" />
+          <mxGeometry x="-355" y="-275.5" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54" target="yYIP0iNsKXeUMV76Itl7-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1946,7 +1946,7 @@
         <mxCell id="h_7eJ0fnhf1rpNmxVTxA-4" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;报修用户id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-437" y="-171" width="67" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="h_7eJ0fnhf1rpNmxVTxA-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="h_7eJ0fnhf1rpNmxVTxA-7">
+        <mxCell id="h_7eJ0fnhf1rpNmxVTxA-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="h_7eJ0fnhf1rpNmxVTxA-7" source="yYIP0iNsKXeUMV76Itl7-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-399" y="-274.5" as="sourcePoint" />
             <mxPoint x="-454" y="-323.87" as="targetPoint" />
