@@ -1767,16 +1767,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-143" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;支付时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="775" y="-474.6199999999999" width="95" height="30" as="geometry" />
+          <mxGeometry x="572.5" y="-398.9999999999999" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yYIP0iNsKXeUMV76Itl7-144" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-145">
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-144" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-145">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="795" y="-471.4999999999999" as="sourcePoint" />
             <mxPoint x="1037.2770504915834" y="-551.4363001404527" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-145" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;支付方式&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="762.5" y="-426.5099999999999" width="95" height="30" as="geometry" />
+          <mxGeometry x="477.5" y="-414.9999999999999" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-146" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-147">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
