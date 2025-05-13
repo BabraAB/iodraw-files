@@ -293,7 +293,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vDcgwB_5uMRNr6FKbaOx" name="ER图">
-    <mxGraphModel dx="1862" dy="1447" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="1447" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1381,6 +1381,90 @@
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-47" target="yYIP0iNsKXeUMV76Itl7-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-54" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="788.12" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-55" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54" target="yYIP0iNsKXeUMV76Itl7-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-285" y="808.75" as="sourcePoint" />
+            <mxPoint x="-305" y="728.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54" target="yYIP0iNsKXeUMV76Itl7-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-345" y="798.75" as="sourcePoint" />
+            <mxPoint x="-305" y="718.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54" target="yYIP0iNsKXeUMV76Itl7-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-345" y="798.75" as="sourcePoint" />
+            <mxPoint x="-375" y="718.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-58" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.57;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54" target="yYIP0iNsKXeUMV76Itl7-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-335" y="808.75" as="sourcePoint" />
+            <mxPoint x="-465" y="768.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54" target="yYIP0iNsKXeUMV76Itl7-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-335" y="808.75" as="sourcePoint" />
+            <mxPoint x="-425" y="748.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-60" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54" target="yYIP0iNsKXeUMV76Itl7-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-335" y="808.75" as="sourcePoint" />
+            <mxPoint x="-345" y="708.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-61" value="故障类型" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="775" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-62" value="故障描述" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="702.49" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-63" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;报修时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="867.49" width="75" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-64" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;维修开始时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-302.5" y="867.49" width="85" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-65" value="维修状态" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="833.12" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-66" value="维修结束时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="693.12" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-67" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54" target="yYIP0iNsKXeUMV76Itl7-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-335" y="808.75" as="sourcePoint" />
+            <mxPoint x="-295" y="738.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-68" value="维修记录" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="736.87" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-69" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54" target="yYIP0iNsKXeUMV76Itl7-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-355" y="873.75" as="sourcePoint" />
+            <mxPoint x="-520" y="943.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-70" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;报表id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="825" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-71" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-270" y="802.12" as="sourcePoint" />
+            <mxPoint x="-200" y="809" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-72" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="785" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
