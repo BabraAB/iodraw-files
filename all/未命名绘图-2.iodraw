@@ -2768,6 +2768,9 @@
         <mxCell id="8dBnD1A4dBU-Tp32GSK3-12" value="界面跳转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1759.5" y="-28" width="85" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="8dBnD1A4dBU-Tp32GSK3-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1764.89" y="-143" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
