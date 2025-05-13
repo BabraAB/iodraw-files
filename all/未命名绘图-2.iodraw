@@ -1740,7 +1740,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-139" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;订单id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-507.58999999999986" width="80" height="30" as="geometry" />
+          <mxGeometry x="460" y="-507.59" width="61" height="30.59" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-140" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1758,7 +1758,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-143" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;支付时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="572.5" y="-398.9999999999999" width="95" height="30" as="geometry" />
+          <mxGeometry x="611" y="-417" width="73" height="31" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-144" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-145">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1767,7 +1767,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-145" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;支付方式&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="477.5" y="-414.9999999999999" width="95" height="30" as="geometry" />
+          <mxGeometry x="542.5" y="-430" width="68.5" height="31" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-146" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-147">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1776,7 +1776,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-147" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;逻辑删除标识&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="427" y="-454.9999999999999" width="80" height="35" as="geometry" />
+          <mxGeometry x="491.37" y="-462" width="80.63" height="33" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-148" value="充电站" style="whiteSpace=wrap;html=1;align=center;direction=east;" vertex="1" parent="1">
           <mxGeometry x="-375" y="-490.38" width="80" height="30" as="geometry" />
