@@ -2789,6 +2789,9 @@
         <mxCell id="8dBnD1A4dBU-Tp32GSK3-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1764.89" y="-143" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8dBnD1A4dBU-Tp32GSK3-19" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1710.25" y="-110" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
