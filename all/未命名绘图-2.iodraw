@@ -1413,7 +1413,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-61" value="故障类型" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-527" y="-230" width="77" height="28" as="geometry" />
+          <mxGeometry x="-527" y="-244.75" width="77" height="28" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-62" value="故障描述" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-480" y="-270" width="70" height="27" as="geometry" />
@@ -1446,7 +1446,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-70" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;报表id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-522" y="-193" width="67" height="26" as="geometry" />
+          <mxGeometry x="-531" y="-212" width="67" height="26" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-73" value="用户" style="whiteSpace=wrap;html=1;align=center;direction=west;" vertex="1" parent="1">
           <mxGeometry x="98" y="-1" width="80" height="30" as="geometry" />
@@ -1936,6 +1936,15 @@
         </mxCell>
         <mxCell id="h_7eJ0fnhf1rpNmxVTxA-2" value="所属充电站编号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-395" y="100" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="h_7eJ0fnhf1rpNmxVTxA-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="h_7eJ0fnhf1rpNmxVTxA-4" source="yYIP0iNsKXeUMV76Itl7-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-342.5" y="-160.75" as="sourcePoint" />
+            <mxPoint x="-467.5" y="-35.120000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_7eJ0fnhf1rpNmxVTxA-4" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;报表用户id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-431.5" y="-151.75" width="67" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
