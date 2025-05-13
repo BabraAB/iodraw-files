@@ -1012,7 +1012,7 @@
           <mxGeometry x="193.75" y="-242" width="77" height="24" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-223" value="用户" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="135" y="-123" width="72" height="24" as="geometry" />
+          <mxGeometry x="109" y="-126" width="72" height="24" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-224" value="充电站" style="whiteSpace=wrap;html=1;align=center;direction=east;" parent="1" vertex="1">
           <mxGeometry x="77" y="-344" width="80" height="24" as="geometry" />
@@ -1272,7 +1272,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-29" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="271" y="-136.56" width="80" height="28.5" as="geometry" />
+          <mxGeometry x="270" y="-151.5" width="80" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="yYIP0iNsKXeUMV76Itl7-29" source="y5Qs9hLnwx7ZL5iUXA9D-223">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
