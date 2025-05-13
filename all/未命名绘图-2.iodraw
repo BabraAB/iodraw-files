@@ -1506,10 +1506,10 @@
           <mxGeometry x="-52" y="106.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-82" value="角色" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="93" y="141.5" width="70" height="20" as="geometry" />
+          <mxGeometry x="144" y="-50" width="56" height="28" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-83" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;昵称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-127" y="46.5" width="70" height="20" as="geometry" />
+          <mxGeometry x="50" y="-50" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-84" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;余额&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="224" y="60" width="61" height="27" as="geometry" />
@@ -1521,7 +1521,7 @@
           <mxGeometry x="243" y="20.5" width="52" height="26" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-87" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="148" y="111.5" width="60" height="26.5" as="geometry" />
+          <mxGeometry x="175" y="80" width="60" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-88" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-73" target="yYIP0iNsKXeUMV76Itl7-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
