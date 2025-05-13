@@ -2728,15 +2728,6 @@
             <mxPoint x="1801.39" y="-71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-195" target="8dBnD1A4dBU-Tp32GSK3-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1854.89" y="-61" as="sourcePoint" />
-            <mxPoint x="1846.39" y="-126" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1652" y="-53" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-195" target="qPmOAxhEpb1KlF9k2zPI-215" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1698.3900000000006" y="-53" as="targetPoint" />
@@ -2766,9 +2757,6 @@
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-219" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1877.25" y="236.25" width="58" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8dBnD1A4dBU-Tp32GSK3-3" value="登录次数达到3次" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="-122" width="103.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
