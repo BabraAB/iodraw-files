@@ -1650,7 +1650,7 @@
           <mxGeometry x="445" y="-171" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-119" value="订单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="625" y="-488.9999999999999" width="80" height="30" as="geometry" />
+          <mxGeometry x="637" y="-495.4099999999999" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-120" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="yYIP0iNsKXeUMV76Itl7-134" source="yYIP0iNsKXeUMV76Itl7-119">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1713,13 +1713,13 @@
           <mxGeometry x="645" y="-575" width="55" height="25" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-132" value="充电量" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-524" width="65" height="28" as="geometry" />
+          <mxGeometry x="770" y="-520.41" width="65" height="28" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-133" value="开始时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="703" y="-572" width="57" height="30" as="geometry" />
+          <mxGeometry x="700.5" y="-570" width="57" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-134" value="电费" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-492.41" width="45" height="23.41" as="geometry" />
+          <mxGeometry x="783" y="-490.38000000000005" width="45" height="23.41" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-135" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;服务费&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="768" y="-465.41" width="62" height="26" as="geometry" />
@@ -1731,7 +1731,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-137" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;订单总金额&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="722.25" y="-437" width="73.5" height="27.5" as="geometry" />
+          <mxGeometry x="725" y="-439.41" width="73.5" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-138" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-139">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1749,7 +1749,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-141" value="结束时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="757.5" y="-555" width="65" height="29" as="geometry" />
+          <mxGeometry x="750" y="-553" width="65" height="29" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-142" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-119" target="yYIP0iNsKXeUMV76Itl7-143">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
