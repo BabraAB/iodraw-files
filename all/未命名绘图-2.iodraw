@@ -1596,10 +1596,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-102" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;日志id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-384.19" width="80" height="20" as="geometry" />
+          <mxGeometry x="498" y="-299" width="74" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-103" value="操作模块" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-347.94" width="70" height="20" as="geometry" />
+          <mxGeometry x="565" y="-315" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-104" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求方法&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="805" y="-312.94" width="70" height="20" as="geometry" />
@@ -1635,7 +1635,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-113" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;请求时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-414.19" width="80" height="30" as="geometry" />
+          <mxGeometry x="457.5" y="-266.69" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-114" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-93" target="yYIP0iNsKXeUMV76Itl7-115">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
