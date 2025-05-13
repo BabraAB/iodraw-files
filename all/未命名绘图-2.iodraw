@@ -1952,8 +1952,8 @@
             <mxPoint x="-454" y="-323.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h_7eJ0fnhf1rpNmxVTxA-7" value="故障描述" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-464" y="-319.19" width="70" height="27" as="geometry" />
+        <mxCell id="h_7eJ0fnhf1rpNmxVTxA-7" value="故障电桩编号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="-279" width="70" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
