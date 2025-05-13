@@ -1836,16 +1836,16 @@
           <mxGeometry x="-446" y="-551.82" width="81" height="38.82" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-159" value="经度" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-374" y="-574.5" width="69" height="31.5" as="geometry" />
+          <mxGeometry x="-369.5" y="-569" width="69" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-160" value="纬度" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-282" y="-560.9999999999999" width="59" height="33.38" as="geometry" />
+          <mxGeometry x="-293" y="-555.9999999999999" width="59" height="33.38" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-161" value="电价" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-251.12" y="-432" width="61" height="27" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-162" value="功率" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="-521" width="56.12" height="30" as="geometry" />
+          <mxGeometry x="-243" y="-520.38" width="56.12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-163" value="电费" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-313.87" y="-411" width="63" height="26" as="geometry" />
@@ -1869,7 +1869,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-168" value="状态" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="-479" width="58" height="28" as="geometry" />
+          <mxGeometry x="-243" y="-471.5" width="58" height="28" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-169" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-148" target="yYIP0iNsKXeUMV76Itl7-170">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1926,7 +1926,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-181" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;充电桩id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-523" y="33.87" width="71" height="29.13" as="geometry" />
+          <mxGeometry x="-508" y="41" width="71" height="29.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
