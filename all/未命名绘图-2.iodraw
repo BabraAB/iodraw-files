@@ -1021,11 +1021,6 @@
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-222" value="订单" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="348" y="-242" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-223" target="y5Qs9hLnwx7ZL5iUXA9D-226" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-62" y="-57" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-223" target="y5Qs9hLnwx7ZL5iUXA9D-222" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="293" y="-57" as="targetPoint" />
@@ -1054,16 +1049,8 @@
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-225" value="充电桩" style="whiteSpace=wrap;html=1;align=center;direction=south;" parent="1" vertex="1">
           <mxGeometry x="78" y="-242" width="78" height="24.5" as="geometry" />
         </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-252" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="y5Qs9hLnwx7ZL5iUXA9D-226" target="y5Qs9hLnwx7ZL5iUXA9D-225" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-117" y="-219.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-226" value="维修报表" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-205" y="-244.75" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-258" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="13" y="-264" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Qs9hLnwx7ZL5iUXA9D-259" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="158" y="-262" width="30" height="30" as="geometry" />
