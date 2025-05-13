@@ -2720,7 +2720,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-184" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1763.14" y="-276" width="73" height="30" as="geometry" />
+          <mxGeometry x="1764.89" y="-270" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-198" target="qPmOAxhEpb1KlF9k2zPI-195" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2753,7 +2753,7 @@
           <mxGeometry x="1764.64" y="-36" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-198" value="输入用户名、密码、验证码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="1714.7700000000002" y="-180" width="169.75" height="30" as="geometry" />
+          <mxGeometry x="1716.5100000000002" y="-179" width="169.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-215" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1771.39" y="19" width="60" height="25" as="geometry" />
