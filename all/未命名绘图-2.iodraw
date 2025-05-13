@@ -1532,14 +1532,14 @@
         <mxCell id="yYIP0iNsKXeUMV76Itl7-89" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;用户id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-70" y="44.5" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="yYIP0iNsKXeUMV76Itl7-90" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-73" target="yYIP0iNsKXeUMV76Itl7-91">
+        <mxCell id="yYIP0iNsKXeUMV76Itl7-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-73" target="yYIP0iNsKXeUMV76Itl7-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="135" y="-30.5" as="sourcePoint" />
             <mxPoint x="175" y="-100.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-91" value="手机" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="295" y="54.5" width="70" height="20" as="geometry" />
+          <mxGeometry x="190" y="-33" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yYIP0iNsKXeUMV76Itl7-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yYIP0iNsKXeUMV76Itl7-87" target="yYIP0iNsKXeUMV76Itl7-87">
           <mxGeometry relative="1" as="geometry" />
