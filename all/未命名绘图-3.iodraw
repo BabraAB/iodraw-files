@@ -3858,7 +3858,7 @@
           <mxGeometry x="230" y="-136.6" width="19.8" height="43.199999999999996" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-28" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="375.6" y="-146.2" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+          <mxGeometry x="360" y="-146.2" width="56.2" height="56.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
