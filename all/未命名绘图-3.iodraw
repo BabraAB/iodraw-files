@@ -3810,10 +3810,13 @@
           <mxGeometry x="378" y="-22.5" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-10" value="后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="140" width="30" height="210" as="geometry" />
+          <mxGeometry y="140" width="30" height="250" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-11" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="40" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-12" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="40" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
