@@ -3842,6 +3842,9 @@
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-21" value="访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-135" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-22" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-12.5" width="50" height="32.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
