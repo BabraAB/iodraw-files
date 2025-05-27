@@ -3857,8 +3857,8 @@
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-30" value="日志模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="60" width="70" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-31" value="日志模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="70" width="70" height="32.5" as="geometry" />
+        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-31" value="维修报表模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="80" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
