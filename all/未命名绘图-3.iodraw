@@ -3854,7 +3854,7 @@
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-28" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="370" y="-143.1" width="56.2" height="56.2" as="geometry" />
         </mxCell>
-        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-30" value="充电站模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-30" value="日志模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="60" width="70" height="32.5" as="geometry" />
         </mxCell>
       </root>
