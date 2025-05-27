@@ -3836,7 +3836,7 @@
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="-150" width="360" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-22" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-22" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="100" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-23" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
