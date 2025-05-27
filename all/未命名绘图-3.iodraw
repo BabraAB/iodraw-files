@@ -3803,8 +3803,8 @@
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-7" value="Type Script" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-22.5" width="70" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-8" value="Type Script" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-12.5" width="70" height="32.5" as="geometry" />
+        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-8" value="ElementPlus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-21.25" width="70" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
