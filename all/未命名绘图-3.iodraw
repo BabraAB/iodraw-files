@@ -3807,7 +3807,7 @@
           <mxGeometry x="340" y="-21.25" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-9" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="-22.5" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="430" y="-22.5" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-11" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="80" width="70" height="150" as="geometry" />
@@ -3852,7 +3852,7 @@
           <mxGeometry x="290" y="110" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-25" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="110" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="360" y="110" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-26" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="438" y="110" width="50" height="32.5" as="geometry" />
