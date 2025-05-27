@@ -1955,6 +1955,9 @@
         <mxCell id="h_7eJ0fnhf1rpNmxVTxA-7" value="故障电桩编号" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-431.5" y="-279" width="76" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="oG3OYfb-GwD42rGggzTB-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-43" y="-251" width="40" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
