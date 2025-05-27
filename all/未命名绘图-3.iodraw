@@ -3791,11 +3791,11 @@
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="-70" width="660" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-40" width="90" height="40" as="geometry" />
+        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-4" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-40" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="70" width="310" height="70" as="geometry" />
+          <mxGeometry x="80" y="-40" width="310" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
