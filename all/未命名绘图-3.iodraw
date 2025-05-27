@@ -3812,7 +3812,7 @@
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-10" value="后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="140" width="30" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-11" value="后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-11" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="30" height="210" as="geometry" />
         </mxCell>
       </root>
