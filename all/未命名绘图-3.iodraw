@@ -3837,7 +3837,7 @@
           <mxGeometry x="140" y="-150" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-22" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="100" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="180" y="100" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-23" value="充电站模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="100" width="70" height="32.5" as="geometry" />
@@ -3849,7 +3849,7 @@
           <mxGeometry x="190" y="60" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-26" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="373.1" y="60" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="355" y="60" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-27" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Smartphone.svg;" vertex="1" parent="1">
           <mxGeometry x="230" y="-136.6" width="19.8" height="43.199999999999996" as="geometry" />
