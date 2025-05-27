@@ -3840,10 +3840,10 @@
           <mxGeometry x="150" y="100" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-23" value="充电站模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="100" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="285" y="100" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-24" value="充电桩模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="100" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="400" y="100" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-25" value="订单模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="60" width="50" height="32.5" as="geometry" />
