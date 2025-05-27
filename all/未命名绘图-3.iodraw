@@ -3784,13 +3784,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZDdY7EyWof1JoqyxI9XH" name="系统架构图">
-    <mxGraphModel dx="1329" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="502" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="-190" width="730" height="660" as="geometry" />
-        </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-4" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="-41.25" width="70" height="70" as="geometry" />
         </mxCell>
@@ -3840,19 +3837,19 @@
           <mxGeometry x="140" y="-150" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-22" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="110" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="150" y="100" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-23" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="110" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="220" y="100" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-24" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="110" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="290" y="100" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-25" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="360" y="100" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-26" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="110" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="438" y="100" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-27" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Smartphone.svg;" vertex="1" parent="1">
           <mxGeometry x="230" y="-136.6" width="19.8" height="43.199999999999996" as="geometry" />
