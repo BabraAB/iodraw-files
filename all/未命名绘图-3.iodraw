@@ -3784,81 +3784,81 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZDdY7EyWof1JoqyxI9XH" name="系统架构图">
-    <mxGraphModel dx="607" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2288" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-4" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-30" width="70" height="70" as="geometry" />
+          <mxGeometry x="-30" y="-30" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-30" width="360" height="70" as="geometry" />
+          <mxGeometry x="110" y="-30" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-6" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-12.5" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="120" y="-12.5" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-7" value="Type Script" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-12.5" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="200" y="-12.5" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-8" value="ElementPlus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-11.25" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="300" y="-11.25" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-9" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="418" y="-12.5" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="388" y="-12.5" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-11" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="50" width="70" height="180" as="geometry" />
+          <mxGeometry x="-30" y="50" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-12" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="240" width="70" height="70" as="geometry" />
+          <mxGeometry x="-30" y="240" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-13" value="访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-130" width="70" height="70" as="geometry" />
+          <mxGeometry x="-30" y="-110" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="240" width="360" height="70" as="geometry" />
+          <mxGeometry x="110" y="240" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-15" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="255" width="70" height="40" as="geometry" />
+          <mxGeometry x="150" y="255" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-16" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="255" width="70" height="40" as="geometry" />
+          <mxGeometry x="370" y="255" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="50" width="360" height="180" as="geometry" />
+          <mxGeometry x="110" y="50" width="360" height="180" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-18" value="Spring Boot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="150" width="290" height="20" as="geometry" />
+          <mxGeometry x="150" y="150" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-19" value="MyBatis-Plus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="190" width="290" height="20" as="geometry" />
+          <mxGeometry x="150" y="190" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-130" width="360" height="70" as="geometry" />
+          <mxGeometry x="110" y="-110" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-22" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="100" width="60" height="32.5" as="geometry" />
+          <mxGeometry x="140" y="100" width="60" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-23" value="充电站模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="100" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="255" y="100" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-24" value="充电桩模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="60" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="255" y="60" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-25" value="订单模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="60" width="60" height="32.5" as="geometry" />
+          <mxGeometry x="140" y="60" width="60" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-27" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Smartphone.svg;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-116.6" width="19.8" height="43.199999999999996" as="geometry" />
+          <mxGeometry x="200" y="-96.6" width="19.8" height="43.199999999999996" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-28" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-123.1" width="56.2" height="56.2" as="geometry" />
+          <mxGeometry x="340" y="-103.1" width="56.2" height="56.2" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-30" value="日志模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="60" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="370" y="60" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-31" value="维修报表模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="100" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="370" y="100" width="80" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
