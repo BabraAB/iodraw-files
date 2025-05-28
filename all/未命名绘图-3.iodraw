@@ -3032,12 +3032,11 @@
             <mxPoint x="136.4999999999999" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-7" target="qPmOAxhEpb1KlF9k2zPI-14" edge="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-7" target="qPmOAxhEpb1KlF9k2zPI-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="190" as="targetPoint" />
             <Array as="points">
               <mxPoint x="9" y="200" />
-              <mxPoint x="9" y="153" />
             </Array>
           </mxGeometry>
         </mxCell>
