@@ -3533,6 +3533,19 @@
         <mxCell id="PXaMnjNCIxM6amXlVeT0-1" value="提示充电桩不存在" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-81.5" y="390" width="99" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PXaMnjNCIxM6amXlVeT0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PXaMnjNCIxM6amXlVeT0-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.75392857142873" y="415.02857142857147" as="sourcePoint" />
+            <mxPoint x="34.43" y="415" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PXaMnjNCIxM6amXlVeT0-5" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="56.25" y="395" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PXaMnjNCIxM6amXlVeT0-6" value="提示充电桩不存在" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-71.5" y="400" width="99" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
