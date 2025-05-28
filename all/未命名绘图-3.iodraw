@@ -3058,7 +3058,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-14" value="提示用户登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-62" y="187" width="80" height="26" as="geometry" />
+          <mxGeometry x="-72" y="187" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-15" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="181" y="385" width="40" height="30" as="geometry" />
@@ -3241,7 +3241,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-80" value="获取充电桩编号" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-77" y="246.25" width="90" height="30" as="geometry" />
+          <mxGeometry x="-77" y="241.25" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-82" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="44.25" y="310" width="40" height="30" as="geometry" />
