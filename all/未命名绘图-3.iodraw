@@ -3009,13 +3009,11 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-3" value="充电 流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="91.5" y="70" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1" target="PXaMnjNCIxM6amXlVeT0-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="129.75392857142873" y="405.02857142857147" as="sourcePoint" />
             <mxPoint x="24.43" y="405" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="40.43" y="405" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-4" target="qPmOAxhEpb1KlF9k2zPI-24" edge="1">
@@ -3528,7 +3526,7 @@
           <mxGeometry x="1865.3899999999999" y="-180" width="33" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PXaMnjNCIxM6amXlVeT0-1" value="修改充电桩状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="355" width="95" height="30" as="geometry" />
+          <mxGeometry x="-77" y="390" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
