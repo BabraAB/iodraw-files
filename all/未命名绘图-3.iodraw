@@ -3009,12 +3009,12 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-3" value="充电 流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="91.5" y="70" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-4" edge="1">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190.25" y="325" as="sourcePoint" />
-            <mxPoint x="-21" y="405" as="targetPoint" />
+            <mxPoint x="129.75392857142873" y="405.02857142857147" as="sourcePoint" />
+            <mxPoint x="24.43" y="405" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-5" y="405" />
+              <mxPoint x="40.43" y="405" />
             </Array>
           </mxGeometry>
         </mxCell>
