@@ -3049,16 +3049,16 @@
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-13" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="54" y="178.25" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qPmOAxhEpb1KlF9k2zPI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-14" edge="1" target="qPmOAxhEpb1KlF9k2zPI-38">
+        <mxCell id="qPmOAxhEpb1KlF9k2zPI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qPmOAxhEpb1KlF9k2zPI-14" edge="1" target="qPmOAxhEpb1KlF9k2zPI-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="136" y="154" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-140" y="153" />
+              <mxPoint x="-140" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-14" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-28" y="143" width="70" height="20" as="geometry" />
+          <mxGeometry x="-53.5" y="185" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qPmOAxhEpb1KlF9k2zPI-15" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="181" y="385" width="40" height="30" as="geometry" />
