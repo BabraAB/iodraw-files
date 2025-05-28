@@ -3884,7 +3884,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ULE1fvWdsVcp0vmgAUgc-13" value="个人信息、" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="ULE1fvWdsVcp0vmgAUgc-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
