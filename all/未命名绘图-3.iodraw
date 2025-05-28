@@ -3877,7 +3877,7 @@
         <mxCell id="ULE1fvWdsVcp0vmgAUgc-3" value="充电桩管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="-86" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ULE1fvWdsVcp0vmgAUgc-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ULE1fvWdsVcp0vmgAUgc-1" target="ULE1fvWdsVcp0vmgAUgc-3">
+        <mxCell id="ULE1fvWdsVcp0vmgAUgc-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="ULE1fvWdsVcp0vmgAUgc-1" target="ULE1fvWdsVcp0vmgAUgc-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-417" y="47" as="sourcePoint" />
             <mxPoint x="-317" y="47" as="targetPoint" />
