@@ -4138,13 +4138,13 @@
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-66">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-66" source="2STtlz_Etbn2xp5EARvD-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="205" y="303" as="sourcePoint" />
             <mxPoint x="312.5" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-66" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-66" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="387" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-68" target="2STtlz_Etbn2xp5EARvD-66">
