@@ -3941,7 +3941,7 @@
             <mxPoint x="-294" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ULE1fvWdsVcp0vmgAUgc-16" value="网站各模板信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="ULE1fvWdsVcp0vmgAUgc-15">
+        <mxCell id="ULE1fvWdsVcp0vmgAUgc-16" value="系统各类数据信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="ULE1fvWdsVcp0vmgAUgc-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
