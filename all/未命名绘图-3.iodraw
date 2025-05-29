@@ -4261,7 +4261,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-96" value="查看订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-188" y="591.36" width="97" height="37" as="geometry" />
+          <mxGeometry x="153" y="580.18" width="65" height="34.64" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.304;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-96">
           <mxGeometry relative="1" as="geometry">
