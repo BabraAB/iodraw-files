@@ -4417,9 +4417,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-128" value="充电桩维修信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-127">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-128" value="操作日志信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-127">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-29" as="offset" />
+            <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
