@@ -4022,7 +4022,7 @@
             <mxPoint x="201" y="61" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-17" value="系统各类数据信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-16">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-17" value="充电站数据信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
