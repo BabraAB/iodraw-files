@@ -3972,7 +3972,7 @@
           <mxGeometry x="-276" y="-170" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-6" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-264" y="570" width="80" height="32" as="geometry" />
+          <mxGeometry x="-244" y="585" width="80" height="32" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-7" value="充电桩管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-264" y="317" width="120" height="60" as="geometry" />
