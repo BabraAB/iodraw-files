@@ -4057,8 +4057,8 @@
             <mxPoint x="137" y="687" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-293" y="648" width="40" height="26" as="geometry" />
+        <mxCell id="2STtlz_Etbn2xp5EARvD-30" value="充电桩维修报表信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-326.5" y="649" width="126" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
