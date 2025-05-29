@@ -4062,6 +4062,20 @@
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2STtlz_Etbn2xp5EARvD-36" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="-161" y="715.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2STtlz_Etbn2xp5EARvD-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110.5" y="657" as="sourcePoint" />
+            <mxPoint x="-263.5" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2STtlz_Etbn2xp5EARvD-38" value="充电桩维修信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
