@@ -4366,8 +4366,8 @@
             <mxPoint x="-1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-116" value="查看充电站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-282.5" y="602" width="97" height="37" as="geometry" />
+        <mxCell id="2STtlz_Etbn2xp5EARvD-116" value="反馈问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-282.5" y="580.18" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-117" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-28" source="2STtlz_Etbn2xp5EARvD-116">
           <mxGeometry relative="1" as="geometry">
