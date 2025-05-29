@@ -4036,7 +4036,7 @@
         <mxCell id="2STtlz_Etbn2xp5EARvD-22" value="充电站管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450" y="710" width="97" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-23" value="充电站管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-23" value="充电桩管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450" y="779" width="97" height="37" as="geometry" />
         </mxCell>
       </root>
