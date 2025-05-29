@@ -3916,18 +3916,18 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ULE1fvWdsVcp0vmgAUgc-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="-22" width="120" height="60" as="geometry" />
+          <mxGeometry x="-604" y="-106" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULE1fvWdsVcp0vmgAUgc-2" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-237" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-233" y="172" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULE1fvWdsVcp0vmgAUgc-3" value="充电桩管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-237" y="-22" width="120" height="60" as="geometry" />
+          <mxGeometry x="-291" y="-106" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULE1fvWdsVcp0vmgAUgc-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="ULE1fvWdsVcp0vmgAUgc-1" target="ULE1fvWdsVcp0vmgAUgc-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-394" y="111" as="sourcePoint" />
-            <mxPoint x="-294" y="111" as="targetPoint" />
+            <mxPoint x="-448" y="27" as="sourcePoint" />
+            <mxPoint x="-348" y="27" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ULE1fvWdsVcp0vmgAUgc-13" value="个人信息、订单、充电站信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="ULE1fvWdsVcp0vmgAUgc-12">
@@ -3937,8 +3937,8 @@
         </mxCell>
         <mxCell id="ULE1fvWdsVcp0vmgAUgc-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ULE1fvWdsVcp0vmgAUgc-3" target="ULE1fvWdsVcp0vmgAUgc-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-433" y="99" as="sourcePoint" />
-            <mxPoint x="-240" y="99" as="targetPoint" />
+            <mxPoint x="-487" y="15" as="sourcePoint" />
+            <mxPoint x="-294" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ULE1fvWdsVcp0vmgAUgc-16" value="网站各模板信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="ULE1fvWdsVcp0vmgAUgc-15">
