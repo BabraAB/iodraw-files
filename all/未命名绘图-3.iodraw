@@ -3889,9 +3889,6 @@
         <mxCell id="1LSXQYu2x6hN3B3V8hXy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="-68" width="360" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="1LSXQYu2x6hN3B3V8hXy-3" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="14" width="272" height="19" as="geometry" />
-        </mxCell>
         <mxCell id="1LSXQYu2x6hN3B3V8hXy-4" value="用户Web界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="-55" width="91" height="30" as="geometry" />
         </mxCell>
@@ -3899,16 +3896,16 @@
           <mxGeometry x="359" y="-55" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1LSXQYu2x6hN3B3V8hXy-6" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-219.5" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="121" y="-4" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="1LSXQYu2x6hN3B3V8hXy-7" value="Type Script" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-219.5" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="201" y="-4" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="1LSXQYu2x6hN3B3V8hXy-8" value="ElementPlus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-218.25" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="301" y="-2.75" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="1LSXQYu2x6hN3B3V8hXy-9" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="398" y="-219.5" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="389" y="-4" width="70" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
