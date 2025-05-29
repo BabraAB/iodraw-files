@@ -4188,6 +4188,31 @@
             <mxPoint x="3" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2STtlz_Etbn2xp5EARvD-80" value="用户注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="612" width="97" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2STtlz_Etbn2xp5EARvD-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="132" y="707" as="sourcePoint" />
+            <mxPoint x="-316" y="579" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2STtlz_Etbn2xp5EARvD-82" value="用户注册信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2STtlz_Etbn2xp5EARvD-83" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-396" y="710" as="sourcePoint" />
+            <mxPoint x="383" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2STtlz_Etbn2xp5EARvD-84" value="用户信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
