@@ -4285,13 +4285,13 @@
             <mxPoint x="22" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.302;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-44" target="2STtlz_Etbn2xp5EARvD-96">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-96">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-128" y="533" as="sourcePoint" />
+            <mxPoint x="186" y="511" as="sourcePoint" />
             <mxPoint x="74" y="589" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-103" value="充电站信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-102">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-103" value="订单信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-102">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
