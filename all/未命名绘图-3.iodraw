@@ -4177,7 +4177,7 @@
             <mxPoint x="4" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-27" target="2STtlz_Etbn2xp5EARvD-68">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.906;entryY=1.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-27" target="2STtlz_Etbn2xp5EARvD-68">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-406" y="700" as="sourcePoint" />
             <mxPoint x="-406" y="582" as="targetPoint" />
