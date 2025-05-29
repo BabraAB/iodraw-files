@@ -4389,11 +4389,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-122" value="查看充电站请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-121">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-22" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
