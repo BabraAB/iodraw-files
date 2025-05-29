@@ -4064,7 +4064,7 @@
           <mxGeometry x="-282.5" y="387" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-27" value="用户注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414.5" y="737" width="97" height="37" as="geometry" />
+          <mxGeometry x="411.5" y="746" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-28" target="2STtlz_Etbn2xp5EARvD-26">
           <mxGeometry relative="1" as="geometry" />
@@ -4191,7 +4191,7 @@
         <mxCell id="2STtlz_Etbn2xp5EARvD-80" value="用户登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="299" y="685" width="97" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-19" source="2STtlz_Etbn2xp5EARvD-80">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.001;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-19" source="2STtlz_Etbn2xp5EARvD-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="596" as="sourcePoint" />
             <mxPoint x="-485.5" y="568.5" as="targetPoint" />
