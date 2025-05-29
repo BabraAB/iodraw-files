@@ -4385,13 +4385,13 @@
             <mxPoint x="-235.5" y="730" as="sourcePoint" />
             <mxPoint x="-185.5" y="682" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-161" y="728" />
+              <mxPoint x="-232" y="757" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-122" value="查看充电站请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-121">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="15" y="-19" as="offset" />
+            <mxPoint x="-22" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
