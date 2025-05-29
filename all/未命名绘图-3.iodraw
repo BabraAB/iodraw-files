@@ -4028,7 +4028,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-19" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="24" y="317" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
