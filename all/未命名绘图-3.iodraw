@@ -4037,7 +4037,7 @@
           <mxGeometry x="-164" y="602" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-24" value="查看日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="192" y="803" width="97" height="37" as="geometry" />
+          <mxGeometry x="272" y="836" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-25" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="133" y="602" width="97" height="37" as="geometry" />
@@ -4047,6 +4047,9 @@
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-27" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="694" width="97" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2STtlz_Etbn2xp5EARvD-28" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="7" y="672" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
