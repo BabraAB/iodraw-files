@@ -3883,6 +3883,18 @@
         <mxCell id="k9Z7N90Vy3Ce7TKDJgnd-31" value="维修报表模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="100" width="80" height="32.5" as="geometry" />
         </mxCell>
+        <mxCell id="1LSXQYu2x6hN3B3V8hXy-1" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-28" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1LSXQYu2x6hN3B3V8hXy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-28" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1LSXQYu2x6hN3B3V8hXy-3" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-13" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1LSXQYu2x6hN3B3V8hXy-4" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-13" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
