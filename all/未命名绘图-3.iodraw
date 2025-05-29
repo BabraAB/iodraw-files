@@ -3972,7 +3972,7 @@
           <mxGeometry x="-276" y="-170" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-6" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-76" y="517" width="120" height="60" as="geometry" />
+          <mxGeometry x="-72" y="482" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -4031,22 +4031,22 @@
           <mxGeometry x="-839" y="224" width="449.35" height="286" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-22" value="充电站管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="804" width="97" height="37" as="geometry" />
+          <mxGeometry x="-112" y="650" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-23" value="充电桩管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="873" width="97" height="37" as="geometry" />
+          <mxGeometry x="-112" y="719" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-24" value="查看日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="128" y="878" width="97" height="37" as="geometry" />
+          <mxGeometry x="36" y="724" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-25" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="114" y="807" width="97" height="37" as="geometry" />
+          <mxGeometry x="22" y="653" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-26" value="充电桩维修管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-161" y="836" width="97" height="37" as="geometry" />
+          <mxGeometry x="-253" y="682" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-27" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="54" y="676" width="97" height="37" as="geometry" />
+          <mxGeometry x="300" y="650" width="97" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
