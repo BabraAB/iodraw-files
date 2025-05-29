@@ -4260,7 +4260,7 @@
             <mxPoint x="15" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-96" value="查看充电站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-96" value="查看订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-188" y="591.36" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.304;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-96">
@@ -4297,7 +4297,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-104" value="创建订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="162.5" y="575" width="64.5" height="32" as="geometry" />
+          <mxGeometry x="259.5" y="581.5" width="64.5" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
