@@ -4213,13 +4213,13 @@
             <mxPoint x="3" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.569;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-80">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.569;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-19" target="2STtlz_Etbn2xp5EARvD-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="649" as="sourcePoint" />
             <mxPoint x="126" y="717" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-86" value="用户信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-85">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-86" value="用户登录请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4" y="-1" as="offset" />
           </mxGeometry>
