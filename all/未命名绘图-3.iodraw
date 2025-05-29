@@ -4046,7 +4046,10 @@
           <mxGeometry x="-302" y="710" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-26" value="充电桩维修管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="724" width="97" height="37" as="geometry" />
+          <mxGeometry x="-591" y="742" width="97" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2STtlz_Etbn2xp5EARvD-27" value="充电站管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="760" width="97" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
