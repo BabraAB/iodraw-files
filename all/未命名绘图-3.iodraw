@@ -4040,13 +4040,13 @@
           <mxGeometry x="192" y="803" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-25" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="735" width="97" height="37" as="geometry" />
+          <mxGeometry x="133" y="602" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-26" value="充电桩维修管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-312" y="602" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-27" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="656" width="97" height="37" as="geometry" />
+          <mxGeometry x="275" y="694" width="97" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
