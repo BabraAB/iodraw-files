@@ -4263,13 +4263,13 @@
         <mxCell id="2STtlz_Etbn2xp5EARvD-96" value="查看订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="153" y="580.18" width="65" height="34.64" as="geometry" />
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-96" target="2STtlz_Etbn2xp5EARvD-19">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.624;entryY=-0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-96" target="2STtlz_Etbn2xp5EARvD-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-987" y="728.36" as="sourcePoint" />
             <mxPoint x="-165" y="719" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-99" value="充电站信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-98">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-99" value="订单信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-98">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-19" y="9" as="offset" />
           </mxGeometry>
