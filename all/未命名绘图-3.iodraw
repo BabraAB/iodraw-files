@@ -293,7 +293,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vDcgwB_5uMRNr6FKbaOx" name="ER图">
-    <mxGraphModel dx="1304" dy="1113" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="1447" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2001,7 +2001,7 @@
           <mxGeometry x="98" y="-279" width="25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9OoI5yR9hX5Pt8dVaPUh-1" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="319" y="-331" width="25" height="26" as="geometry" />
+          <mxGeometry x="310" y="-171" width="25" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
