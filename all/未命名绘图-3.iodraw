@@ -4042,8 +4042,8 @@
         <mxCell id="2STtlz_Etbn2xp5EARvD-24" value="查看日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-302" y="784" width="97" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-25" value="充电站管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="740" width="97" height="37" as="geometry" />
+        <mxCell id="2STtlz_Etbn2xp5EARvD-25" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-302" y="710" width="97" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
