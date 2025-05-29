@@ -4266,9 +4266,6 @@
         <mxCell id="2STtlz_Etbn2xp5EARvD-96" value="查看充电站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-188" y="591.36" width="97" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-97" value="充电站信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="-140.5" y="558.0028571428571" as="geometry" />
-        </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.304;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-96" target="2STtlz_Etbn2xp5EARvD-95">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-987" y="728.36" as="sourcePoint" />
@@ -4291,9 +4288,9 @@
             <mxPoint x="15" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-96">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="74" y="523" as="sourcePoint" />
+            <mxPoint x="-128" y="533" as="sourcePoint" />
             <mxPoint x="74" y="589" as="targetPoint" />
           </mxGeometry>
         </mxCell>
