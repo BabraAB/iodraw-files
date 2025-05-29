@@ -3990,7 +3990,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-6" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70.5" y="273" width="120" height="60" as="geometry" />
+          <mxGeometry x="2" y="277" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
