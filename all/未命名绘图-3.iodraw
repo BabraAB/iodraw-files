@@ -4091,12 +4091,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-44" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
-          <mxGeometry x="-283.5" y="727.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="131.5" y="706.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-44">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="2STtlz_Etbn2xp5EARvD-44" source="2STtlz_Etbn2xp5EARvD-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-233" y="669" as="sourcePoint" />
-            <mxPoint x="-386" y="602" as="targetPoint" />
+            <mxPoint x="182" y="648" as="sourcePoint" />
+            <mxPoint x="29" y="581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-46" value="充电桩维修信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-45">
