@@ -3911,7 +3911,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8HGtnJSYlWf6R37Hevy9" name="数据流图">
-    <mxGraphModel dx="1548" dy="616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1920" dy="847" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4099,6 +4099,11 @@
         <mxCell id="2STtlz_Etbn2xp5EARvD-42" value="充电站信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="2STtlz_Etbn2xp5EARvD-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2STtlz_Etbn2xp5EARvD-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-44" target="2STtlz_Etbn2xp5EARvD-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="792.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-44" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
