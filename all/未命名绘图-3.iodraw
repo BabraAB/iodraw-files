@@ -4055,7 +4055,7 @@
           <mxGeometry x="-134.5" y="387" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-24" value="查看日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="446.5" y="601" width="97" height="37" as="geometry" />
+          <mxGeometry x="206" y="649.5" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-25" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="159.5" y="387" width="97" height="37" as="geometry" />
@@ -4064,7 +4064,7 @@
           <mxGeometry x="-282.5" y="387" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-27" value="用户注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="596" width="97" height="37" as="geometry" />
+          <mxGeometry x="314.5" y="584" width="97" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2STtlz_Etbn2xp5EARvD-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-28" target="2STtlz_Etbn2xp5EARvD-26">
           <mxGeometry relative="1" as="geometry" />
