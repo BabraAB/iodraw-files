@@ -4051,7 +4051,7 @@
         <mxCell id="2STtlz_Etbn2xp5EARvD-28" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
           <mxGeometry x="-313.5" y="697.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2STtlz_Etbn2xp5EARvD-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-26">
+        <mxCell id="2STtlz_Etbn2xp5EARvD-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2STtlz_Etbn2xp5EARvD-26" target="2STtlz_Etbn2xp5EARvD-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-416" y="690" as="sourcePoint" />
             <mxPoint x="-416" y="572" as="targetPoint" />
